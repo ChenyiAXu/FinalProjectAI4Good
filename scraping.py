@@ -58,6 +58,41 @@ yogurt["userData"]["sessionId"] = "bec28050-b5fa-4e01-b836-93fc4af4b3d3"
 southAsian = common_data.copy()
 southAsian["userData"]["sessionId"] = "bec28050-b5fa-4e01-b836-93fc4af4b3d3"
 
+Sausages = common_data.copy()
+Sausages["userData"]["sessionId"] = "7a20ee46-9f2a-4d58-bd81-a8f5c9c4fb0c"
+
+LambVeal = common_data.copy()
+LambVeal["userData"]["sessionId"] = "7a20ee46-9f2a-4d58-bd81-a8f5c9c4fb0c"
+
+MarinatedMeat = common_data.copy()
+MarinatedMeat["userData"]["sessionId"] = "7a20ee46-9f2a-4d58-bd81-a8f5c9c4fb0c"
+
+beef = common_data.copy()
+beef["userData"]["sessionId"] = "7a20ee46-9f2a-4d58-bd81-a8f5c9c4fb0c"
+
+ChickenTurkey = common_data.copy()
+ChickenTurkey["userData"]["sessionId"] = "7a20ee46-9f2a-4d58-bd81-a8f5c9c4fb0c"
+
+PorkHam = common_data.copy()
+PorkHam["userData"]["sessionId"] = "7a20ee46-9f2a-4d58-bd81-a8f5c9c4fb0c"
+
+Bacon = common_data.copy()
+Bacon["userData"]["sessionId"] = "7a20ee46-9f2a-4d58-bd81-a8f5c9c4fb0c"
+
+HotDogs = common_data.copy()
+HotDogs["userData"]["sessionId"] = "bec28050-b5fa-4e01-b836-93fc4af4b3d3"
+
+HalalMeat = common_data.copy()
+HalalMeat["userData"]["sessionId"] = "7a20ee46-9f2a-4d58-bd81-a8f5c9c4fb0c"
+
+# MeatAlternatives = common_data.copy()
+# MeatAlternatives["userData"]["sessionId"] = "7a20ee46-9f2a-4d58-bd81-a8f5c9c4fb0c"
+
+# southAsian = common_data.copy()
+# southAsian["userData"]["sessionId"] = "bec28050-b5fa-4e01-b836-93fc4af4b3d3"
+
+
+
 def fetch_product_info(data, page_title, category):
     response = requests.post(f'https://api.pcexpress.ca/pcx-bff/api/v2/{page_title}', headers=headers, json=data)
     product_info = []
@@ -93,8 +128,19 @@ categories = {
     "milk and cream": ('listingPage/28224', milk_cream),
     "cheese": ('listingPage/28225', cheese),
     "yogurt": ('listingPage/28227', yogurt),
-    "southAsian": ('listingPage/58045', southAsian)
+    "southAsian": ('listingPage/58045', southAsian),
+    "Sausages": ('listingPage/28170', Sausages),
+    "southAsian": ('listingPage/28171', LambVeal),
+    "MarinatedMeat": ('listingPage/28173', MarinatedMeat),
+    "beef": ('listingPage/28174', beef),
+    "ChickenTurkey": ('listingPage/28214', ChickenTurkey),
+    "PorkHam": ('listingPage/28215', PorkHam),
+    "Bacon": ('listingPage/59252', Bacon),
+    "HotDogs": ('listingPage/59253', HotDogs),
+    "HalalMeat": ('listingPage/59257', HalalMeat)
+    # "MeatAlternatives": ('listingPage/59318', MeatAlternatives),
 }
+
 
 # Fetch data for all categories and write to CSV
 all_product_info = []
