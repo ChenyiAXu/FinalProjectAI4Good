@@ -36,7 +36,7 @@ common_data = {
     "userData": {"domainUserId": "4b129ecf-7f11-42ef-86ec-540244009529"}
 }
 
-# Define distinct attributes for fruit and vegetable data
+# Define distinct attributes 
 fruit_data = common_data.copy()
 fruit_data["userData"]["sessionId"] = "bec28050-b5fa-4e01-b836-93fc4af4b3d3"
 
@@ -57,6 +57,10 @@ yogurt["userData"]["sessionId"] = "bec28050-b5fa-4e01-b836-93fc4af4b3d3"
 
 southAsian = common_data.copy()
 southAsian["userData"]["sessionId"] = "bec28050-b5fa-4e01-b836-93fc4af4b3d3"
+ 
+sausage = common_data.copy()
+sausage["userData"]["sessionId"] = "60c3c096-f5d6-4a6c-b210-fe7e3a3c458b"
+
 
 def fetch_product_info(data, page_title, category):
     response = requests.post(f'https://api.pcexpress.ca/pcx-bff/api/v2/{page_title}', headers=headers, json=data)
@@ -93,7 +97,9 @@ categories = {
     "milk and cream": ('listingPage/28224', milk_cream),
     "cheese": ('listingPage/28225', cheese),
     "yogurt": ('listingPage/28227', yogurt),
-    "southAsian": ('listingPage/58045', southAsian)
+    "southAsian": ('listingPage/58045', southAsian),
+    "sausage": ('listingPage/28170', sausage)
+
 }
 
 # Fetch data for all categories and write to CSV
