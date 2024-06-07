@@ -154,7 +154,8 @@ def fetch_product_info(data, page_title, category):
                             "Title": title,
                             "Price": price,
                             "Package Sizing": packageSizing,
-                            "Category": category
+                            "Category": category,
+                            "Store": "Superstore"  # Add the label here
                         })
     else:
         print(f"Request failed with status code {response.status_code}")
@@ -209,7 +210,7 @@ for category, (page_title, data) in categories.items():
 
 # Write to CSV
 csv_file = 'product_data.csv'
-csv_columns = ["Title", "Price", "Package Sizing", "Category"]
+csv_columns = ["Title", "Price", "Package Sizing", "Category", "Store"]
 
 try:
     with open(csv_file, 'w', newline='', encoding='utf-8') as csvfile:
@@ -220,5 +221,3 @@ try:
     print(f"Data successfully written to {csv_file}")
 except IOError:
     print("I/O error while writing to CSV")
-
-
