@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Title,Price,Package Sizing,Category
 "Bananas, Bunch",1.75,$1.52/1kg $0.69/1lb,fruit
 Strawberries 1LB,4.99,"454 g, $1.10/100g",fruit
@@ -37,8 +36,8 @@ Peaches ,7.99,"3 l, $0.27/100ml",fruit
 "Naturally Imperfect Avocados, 3 lb Bag",8.00,"1.36 kg, $0.59/100g",fruit
 Red Seedless Grapes,8.00,"907 g, $0.88/100g",fruit
 "Plantains, Single",1.08,$3.28/1kg $1.49/1lb,fruit
-Ambrosia Apples,1.45,$6.59/1kg $2.99/1lb,fruit
 Naturally Imperfect Limes,5.00,"907 g, $0.55/100g",fruit
+Ambrosia Apples,1.45,$6.59/1kg $2.99/1lb,fruit
 Blackberries 1 pint,7.99,"340 g, $2.35/100g",fruit
 Mini Seedless Watermelon,4.49,"1 ea, $4.49/1ea",fruit
 Papaya,5.38,$4.14/1kg $1.88/1lb,fruit
@@ -46,8 +45,8 @@ Black Plums,0.88,$8.80/1kg $3.99/1lb,fruit
 Atemoya,4.99,"1 ea, $4.99/1ea",fruit
 "Naturally Imperfect Lemons, 4 lb Bag",7.00,"1.85 kg, $0.38/100g",fruit
 Black Figs,8.99,"340 g, $2.64/100g",fruit
-Pink Guava,7.00,"1 ea, $7.00/1ea",fruit
-Red Seedless Grapes,9.99,"907 g, $1.10/100g",fruit
+Mandarin Halo,8.99,"1362 g, $0.66/100g",fruit
+Clementine Stem & Leaf,1.15,$11.00/1kg $4.99/1lb,fruit
 English Cucumber,2.29,"1 ea, $2.29/1ea",vegetable
 Tomato On The Vine Red (1 Bunch),5.46,$7.69/1kg $3.49/1lb,vegetable
 Green Onion,1.49,"1 bunch, $1.49/1ea",vegetable
@@ -95,397 +94,7 @@ White Mushrooms,3.49,"227 g, $1.54/100g",vegetable
 Taiwanese Flat Cabbage,2.44,$2.16/1kg $0.98/1lb,vegetable
 Jalapeno Peppers,0.55,$11.00/1kg $4.99/1lb,vegetable
 Cameo Tomato On Vine,6.99,"340 g, $2.06/100g",vegetable
-Salted Butter,4.99,"454 g, $1.32/100g",butter and spreads
-Salted Butter ,8.49,"454 g, $1.87/100g",butter and spreads
-Margarine Spread,1.88,"427 g, $0.77/100g",butter and spreads
-Unsalted Butter,5.99,"454 g, $1.32/100g",butter and spreads
-Margarine Original,6.99,"850 g, $0.82/100g",butter and spreads
-Margarine with Olive Oil,6.99,"850 g, $0.82/100g",butter and spreads
-Margarine Original,3.77,"427 g, $1.29/100g",butter and spreads
-Unsalted Butter ,8.49,"454 g, $1.87/100g",butter and spreads
-Country Churned Unsalted Butter ,8.29,"454 g, $1.83/100g",butter and spreads
-Country Churned Salted Butter,8.29,"454 g, $1.83/100g",butter and spreads
-"Salted Butter Sticks, 4 units",8.00,"4x113.0 g, $1.77/100g",butter and spreads
-Margarine Club Pack,8.49,"1.275 kg, $0.67/100g",butter and spreads
-Margarine Vegan,6.99,"850 g, $0.82/100g",butter and spreads
-Margarine with Olive Oil,3.77,"427 g, $1.29/100g",butter and spreads
-Blue Menu Margarine with Olive Oil,5.29,"907 g, $0.58/100g",butter and spreads
-"My Country Unsalted Butter Sticks, 4 units ",8.00,"4x113.5 g, $1.76/100g",butter and spreads
-Spreadables Butter With Canola Oil,5.99,"227 g, $2.64/100g",butter and spreads
-Margarine with Avocado Oil,6.99,"850 g, $0.82/100g",butter and spreads
-Garlic & Provençal Herb Butter ,4.19,"125 g, $3.35/100g",butter and spreads
-55% Vegetable Oil Margarine ,3.77,"637 g, $1.10/100g",butter and spreads
-Creamery Butter,6.99,"454 g, $1.54/100g",butter and spreads
-Margarine Vegan,3.77,"427 g, $1.29/100g",butter and spreads
-Calorie-Reduced Margarine Light,6.99,"850 g, $0.82/100g",butter and spreads
-Blue Menu Original Margarine,5.29,"907 g, $0.58/100g",butter and spreads
-Margarine with Avocado Oil,3.77,"427 g, $1.29/100g",butter and spreads
-Margarine Quarters Value Size,9.49,"1.36 kg, $0.70/100g",butter and spreads
-Creamery Butter Unsalted,6.99,"454 g, $1.54/100g",butter and spreads
-Buttery Taste Margarine,6.99,"637 g, $1.10/100g",butter and spreads
-Margarine Unsalted Plant-Based Sticks,5.49,"454 g, $1.21/100g",butter and spreads
-"Salted Butter Sticks with Sea Salt, 4 units",8.00,"454 g, $1.76/100g",butter and spreads
-Margarine Salted Plant-Based Sticks,5.49,"454 g, $1.21/100g",butter and spreads
-Organics Salted Butter Churned,6.49,"250 g, $2.60/100g",butter and spreads
-Plant Based Butter Alternative Salted,4.79,"454 g, $1.06/100g",butter and spreads
-Organics Unsalted Butter Churned,6.49,"250 g, $2.60/100g",butter and spreads
-Margarine,5.49,"907 g, $0.61/100g",butter and spreads
-Soy Free Buttery Spread    ,6.99,"425 g, $1.64/100g",butter and spreads
-Grass Fed Salted Butter,7.99,"250 g, $3.20/100g",butter and spreads
-"Original Margarine Square Spread, 12 units",9.49,"1.36 kg, $0.70/100g",butter and spreads
-Margarine Original,16.79,"1.7 kg, $0.99/100g",butter and spreads
-Margarine,7.99,"1.36 kg, $0.59/100g",butter and spreads
-Mirage Margarine,7.49,"907 g, $0.83/100g",butter and spreads
-Margarine,14.49,"3 kg, $0.48/100g",butter and spreads
-Whipped Butter,4.99,"250 g, $2.40/100g",butter and spreads
-Margarine,14.49,"3 kg, $0.48/100g",butter and spreads
-Plant Based Butter Alternative Unsalted,4.79,"454 g, $1.06/100g",butter and spreads
-Lactose Free Butter Unsalted,8.79,"454 g, $1.94/100g",butter and spreads
-Original Spread,6.99,"850 g, $0.82/100g",butter and spreads
-Vegetable Oil Margarine,9.99,"1.28 kg, $0.78/100g",butter and spreads
-"Dairy-Free Butter, Salted, Plant-Based ",5.99,"340 g, $1.76/100g",butter and spreads
-"Milk, 2%",5.55,"4 l, $0.14/100ml",milk and cream
-Lactose Free 2% Dairy Product,5.69,"2 l, $0.31/100ml",milk and cream
-Homogenized Milk,5.81,"4 l, $0.15/100ml",milk and cream
-Coffee Cream 10% MF,3.75,"946 ml, $0.40/100ml",milk and cream
-"French Vanilla Flavoured Coffee Creamer, 63 Servings",4.44,"946 ml, $0.63/100ml",milk and cream
-"Oat For Coffee, Vanilla, Plant Based, Dairy Free Coffee Creamer",5.49,"890 ml, $0.62/100ml",milk and cream
-Lactose Free 2% Partly Skimmed Ultrafiltered Milk,6.59,"1.5 l, $0.44/100ml",milk and cream
-Lactose Free 1% Dairy Product,5.69,"2 l, $0.31/100ml",milk and cream
-Chocolate Lactose Free 2% Partly Skimmed Ultrafiltered Milk,6.59,"1.5 l, $0.44/100ml",milk and cream
-1% Milk,5.55,"4 l, $0.14/100ml",milk and cream
-"Real Whipped Cream, Regular",4.79,"225 g, $2.13/100g",milk and cream
-"Hazelnut Flavoured Coffee Creamer, 63 Servings",4.44,"946 ml, $0.63/100ml",milk and cream
-"For Coffee, Hazelnut Flavour, Dairy Free Coffee Creamer",2.99,"473 ml, $0.63/100ml",milk and cream
-Lactose Free Skim Ultrafiltered Milk,6.59,"1.5 l, $0.44/100ml",milk and cream
-Milk Lactose Free 2% Partly Skimmed ,5.59,"2 l, $0.32/100ml",milk and cream
-Milk 1% Bottle,6.59,"1.5 l, $0.44/100ml",milk and cream
-"Caramel Plant-Based Coffee Creamer, Limited Edition",2.99,"450 ml, $0.66/100ml",milk and cream
-2% Milk,2.83,"1 l, $0.28/100ml",milk and cream
-"Caramel Macchiato Coffee Creamer,",4.44,"946 ml, $0.63/100ml",milk and cream
-Coffee Mate Double Double-Mate Liquid Coffee Enhancer Value Size,9.29,"1.89 l, $0.49/100ml",milk and cream
-Skim Milk,5.55,"4 l, $0.14/100ml",milk and cream
-"Sport, Chocolate",2.39,"325 ml, $0.74/100ml",milk and cream
-"Chocolate Milk, 1% MF",6.65,"4 l, $0.17/100ml",milk and cream
-"Organic Homogenized Milk, 3.25%",7.12,"2 l, $0.36/100ml",milk and cream
-Coffee Mate Liquid Hazelnut,6.49,"946 ml, $0.69/100ml",milk and cream
-"Almond & Oat Non-Dairy Coffee Enchancer, Vanilla",6.99,"828 ml, $0.96/100ml",milk and cream
-Nesquik Milkshake,2.69,"473 ml, $0.57/100ml",milk and cream
-"Organic Milk, 2% Mf",9.95,"4 l, $0.25/100ml",milk and cream
-Dairy Protein Beverage 3.25% M.F.,7.37,"1.89 l, $0.39/100ml",milk and cream
-"Coffee Creamer, Vanilla Dip Donut",7.49,"750 ml, $1.00/100ml",milk and cream
-French Vanilla Milkshake,1.59,"310 ml, $0.51/100ml",milk and cream
-Southern Butter Pecan Coffee Creamer,4.44,"946 ml, $0.63/100ml",milk and cream
-Cream Lactose Free 10%,4.84,"1 l, $0.48/100ml",milk and cream
-Coffee Mate Liquid French Vanilla Value Size,9.29,"1.89 l, $0.49/100ml",milk and cream
-2% Milk,2.21,"473 ml, $0.47/100ml",milk and cream
-Caramel Macchiato Cold Foam,4.44,"396 g, $1.84/100g",milk and cream
-Chocolate Milkshake,1.59,"310 ml, $0.51/100ml",milk and cream
-Flavoured Milk,2.49,"473 ml, $0.53/100ml",milk and cream
-Original Powder,12.99,"1.4 kg, $0.93/100g",milk and cream
-"Almond For Coffee, Vanilla, Plant Based, Dairy Free Coffee Creamer",2.99,"473 ml, $0.63/100ml",milk and cream
-COFFEE-MATE Original Powder,5.79,"450 g, $1.44/100g",milk and cream
-Coffee Whitener,6.99,"1 kg, $0.70/100g",milk and cream
-Coffee Whitener,3.99,"450 g, $0.89/100g",milk and cream
-Chocolate Milk Lactose Free,3.99,"1.89 l, $0.37/100ml",milk and cream
-1% Milk,2.83,"1 l, $0.28/100ml",milk and cream
-Milk Lactose Free 1% Partly Skimmed ,5.59,"2 l, $0.32/100ml",milk and cream
-"Sport, Vanilla",2.39,"325 ml, $0.74/100ml",milk and cream
-Whipping Cream 33% MF,6.30,"946 ml, $0.67/100ml",milk and cream
-Marble Cheddar Cheese Slices,3.99,"240 g, $2.29/100g",cheese
-"Medium Cheddar Cheese Slices, 12 units",3.99,"240 g, $2.29/100g",cheese
-Farmer's Marble Cheese,7.89,"700 g, $1.13/100g",cheese
-Triple Cheddar Shredded Cheese Blend,5.49,"320 g, $1.72/100g",cheese
-Singles Original Slices,4.49,"410 g, $1.10/100g",cheese
-"Cheestrings Marble Cheese, 16 units",5.79,"336 g, $2.62/100g",cheese
-Pasteurized Cream Cheese,3.00,"250 g, $1.20/100g",cheese
-Original Cream Cheese Product,3.97,"227 g, $2.15/100g",cheese
-Original Brick Cream Cheese,3.97,"250 g, $1.96/100g",cheese
-Old Cheddar Cheese,7.89,"700 g, $1.13/100g",cheese
-"Swiss Cheese Slices, 11 units",3.99,"220 g, $2.50/100g",cheese
-"Cottage Cheese, 2% M.F.",3.99,"500 g, $0.80/100g",cheese
-"Processed cheddar cheese slices, 22 units",4.49,"410 g, $1.10/100g",cheese
-"Pizza Mozzarella Cheese, 28% MF",7.89,"700 g, $1.13/100g",cheese
-Marble Cheddar Cheese Slices,4.50,"230 g, $1.96/100g",cheese
-Marble cheddar cheese,5.77,"400 g, $1.80/100g",cheese
-Herb & Garlic Cream Cheese Product,3.97,"227 g, $2.15/100g",cheese
-"Old White Cheddar Cheese Slices, 11 units",3.99,"200 g, $2.75/100g",cheese
-Shredded Mozzarella,5.99,"320 g, $1.87/100g",cheese
-Singles Original Thick Slices,4.49,"410 g, $1.10/100g",cheese
-Lactose Free Marble Cheddar ,6.99,"400 g, $1.75/100g",cheese
-Grated Cheese Parmesan 31% M.F.,7.99,"250 g, $3.20/100g",cheese
-"Cottage Cheese, 2%",3.49,"500 ml, $0.88/100ml",cheese
-Extra Old White Cheddar,6.99,"400 g, $1.75/100g",cheese
-"Mozzarella and cheddar cheese stix, 22% M.F, 12 units",6.50,"228 g, $3.20/100g",cheese
-Cheddar Coloured Old Cheese ,5.77,"400 g, $1.80/100g",cheese
-Original Cream Cheese Product,6.99,"340 g, $2.06/100g",cheese
-Medium Cheddar Cheese,7.89,"700 g, $1.13/100g",cheese
-Shredded Nacho Cheese Blend,5.99,"320 g, $1.87/100g",cheese
-"Havarti Cheese Slices, 11 units",3.99,"220 g, $2.50/100g",cheese
-Whipped Original Cream Cheese Product,4.89,"227 g, $2.15/100g",cheese
-Singles Original Slices,6.97,"825 g, $1.13/100g",cheese
-"Cheestrings Marble Cheese, 28 units",9.97,"588 g, $2.29/100g",cheese
-"Light Medium Cheddar Cheese Slices, 12 units",3.99,"240 g, $2.29/100g",cheese
-Swiss Cheese Slices,4.50,"210 g, $2.14/100g",cheese
-1% M.F. Cottage Cheese ,5.00,"750 g, $0.67/100g",cheese
-Cheese Sticks Stringable Marble,11.99,"588 g, $2.04/100g",cheese
-1% M.F. Cottage Cheese ,5.00,"750 g, $0.67/100g",cheese
-Lactose Free Triple Cheddar Shredded Cheese Blend,5.49,"320 g, $1.72/100g",cheese
-Triple Cheddar Shredded Cheese Blend ,11.49,"620 g, $1.85/100g",cheese
-Smoke Flavoured Shredded Cheddar Cheese ,5.49,"320 g, $1.72/100g",cheese
-Havarti Cheese,6.99,"400 g, $1.75/100g",cheese
-"Cheestrings Marble Lactose Free Cheese, 12 units",5.79,"252 g, $3.49/100g",cheese
-Monterey Jack Sliced Cheese,4.49,"210 g, $2.14/100g",cheese
-Medium Cheddar Cheese Slices,4.50,"230 g, $1.96/100g",cheese
-Shredded Old White Cheddar Cheese,5.99,"320 g, $1.87/100g",cheese
-Processed Cheese Product Thick Slices Cheddar Flavour,8.99,"800 g, $1.12/100g",cheese
-Lactose Free Marble Cheddar Cheese Slices,4.49,"210 g, $2.14/100g",cheese
-"Plain Yogurt 6%, Balkan Style",3.69,"750 g, $0.49/100g",yogurt
-"Yogurt With Probiotics, Vanilla Flavour",3.79,"650 g, $0.68/100g",yogurt
-Plain Greek Yogurt 0%,5.00,"750 g, $0.67/100g",yogurt
-"Nano Drinkable Yogurt, Strawberry 1%",4.99,"6x93.0 ml, $0.89/100ml",yogurt
-"Greek 0% Yogurt, Plain, High Protein",7.29,"750 g, $0.97/100g",yogurt
-"Yogurt With Probiotics, Vanilla Flavour",5.29,"8x100.0 g, $0.66/100g",yogurt
-Plain Greek Yogurt Club Size 2% M.F.,6.49,"1 kg, $0.65/100g",yogurt
-"Greek Yogurt, Key Lime Flavour, 2% M.F., Blended",3.33,"4x100.0 g, $1.15/100g",yogurt
-"Probiotic Yogurt, Strawberry/Blueberry/Raspberry/Peach Flavour",5.50,"12x100.0 g, $0.46/100g",yogurt
-Greek Yogurt Plain Flavour 2% ,5.00,"750 g, $0.67/100g",yogurt
-"Fat Free Greek Yogurt, High Protein, Plain, 0% M.F.",5.46,"650 g, $0.84/100g",yogurt
-"Tubes Zoo, Strawberry",2.67,"448 g, $0.60/100g",yogurt
-"Nano Drinkable Yogurt, Vanilla 1%",4.99,"6x93.0 ml, $0.89/100ml",yogurt
-"Greek Yogurt, Vanilla Flavour, 2% M.F.,  Blended",3.33,"4x100.0 g, $1.15/100g",yogurt
-Skyr Yogurt Plain 0%.  High Protein,6.49,"750 g, $0.87/100g",yogurt
-"Greek Yogurt, Banana Flavour, Blended, 2% Mf, 4X100G",3.33,"4x100.0 g, $1.15/100g",yogurt
-"Fat Free Greek Yogurt, Plain, No Added Sugar Value Tub",5.46,"750 g, $0.73/100g",yogurt
-Tubes Yogurt 1% M.F. Strawberry Banana & Fruit Punch,2.67,"448 g, $0.60/100g",yogurt
-"Greek 2% Yogurt, Plain, High Protein",7.29,"750 g, $0.97/100g",yogurt
-"Nano Drinkable Yogurt, Peach 1%",4.99,"6x93.0 ml, $0.89/100ml",yogurt
-"Fat Free Greek Yogurt, Peach-Mango Flavour, Fruit On The Bottom, 0% M.F.",3.33,"4x100.0 g, $1.15/100g",yogurt
-"Greek Yogurt, Strawberry Flavour, Fruit On The Bottom, 2% M.F.",3.33,"4x100.0 g, $1.15/100g",yogurt
-"Yop 1% Drinkable Yogurt Pack, Strawberry, Blueberry, Raspberry, and Strawberry Banana, Yogurt Drinks",9.94,"12x200.0 ml, $0.46/100ml",yogurt
-"Nano Drinkable Yogurt, Raspberry 1%",4.99,"6x93.0 ml, $0.89/100ml",yogurt
-"Yogurt With Probiotics, Strawberry Flavour",3.89,"650 g, $0.68/100g",yogurt
-"Source 0% Smooth Traditional Yogurt Cups Variety Pack, No Added Sugar",6.99,"16x100.0 g, $0.49/100g",yogurt
-"Greek Yogurt, Plain, No Added Sugar, 2% Mf, Value Tub",5.46,"750 g, $0.73/100g",yogurt
-"Yop 1% Drinkable Yogurt, Strawberry Banana, Yogurt Drink",1.29,"200 ml, $0.65/100ml",yogurt
-"High Protein Greek Yogurt, Vanilla Flavour, Blended, Value Tub",5.46,"650 g, $0.84/100g",yogurt
-"Yop 1% Drinkable Yogurt, Strawberry, Yogurt Drink",1.29,"200 ml, $0.65/100ml",yogurt
-"Yogurt 1.5% M.F. Variety Pack - Strawberry,Raspberry, Blueberry & Vanilla",6.29,"16x100.0 g, $0.39/100g",yogurt
-"Yogurt With Probiotics, Raspberry Flavour",3.89,"650 g, $0.68/100g",yogurt
-"Nano Drinkable Yogurt, Banana 1%",4.99,"6x93.0 ml, $0.89/100ml",yogurt
-"Nano Drinkable Yogurt, Lactose Free, Strawberry-Banana 1%",4.99,"6x93.0 ml, $0.89/100g",yogurt
-"Greek Yogurt, Raspberry-Pomegramate Flavour, Fruit On Bottom, 2% M.F.,",3.33,"4x100.0 g, $1.15/100g",yogurt
-"Yop 3% Minigo Duo, Variety Pack, Kids Snack",2.67,"6x60.0 g, $0.74/100g",yogurt
-Tubes Yogurt Mixed Berry Flavour 1% M.F.,2.67,"448 g, $0.60/100g",yogurt
-"Yogurt With Probiotics, Cherry Flavour",3.89,"650 g, $0.68/100g",yogurt
-"Greek Yogurt, Blueberry Flavour, Fruit On The Bottom, 2% M.F.",3.33,"4x100.0 g, $1.15/100g",yogurt
-"Source 0% Smooth Traditional Yogurt, Vanilla, No Added Sugar",2.67,"630 g, $0.42/100g",yogurt
-"Yop 1% Drinkable Yogurt Limited Edition, Yogurt Drink",1.29,"200 ml, $0.65/100ml",yogurt
-"Yop 1% Drinkable Yogurt, Vanilla, Yogurt Drink",1.29,"200 ml, $0.65/100ml",yogurt
-Vanilla Greek Yogurt,5.00,"750 g, $0.67/100g",yogurt
-Tubes Yogurt Vanilla Flavour 1% M.F.,2.67,"448 g, $0.60/100g",yogurt
-"Fat Free Greek Yogurt, Cherry Flavour, Fruit On The Bottom, 0% M.F.",3.33,"4x100.0 g, $1.15/100g",yogurt
-"Yogurt With Probiotics, Blueberry Flavour",3.89,"650 g, $0.68/100g",yogurt
-Vanilla Greek Yogurt 0% Club Size ,6.49,"1 kg, $0.65/100g",yogurt
-"Probiotic Yogurt, Raspberry/Apple/Blackberry/Strawberry Flavour, 12XG",5.50,"12x100.0 g, $0.46/100g",yogurt
-"Yop 1% Drinkable Yogurt, Peach, Yogurt Drink",1.29,"200 ml, $0.65/100ml",yogurt
-Cilantro,1.39,"1 bunch, $1.39/1ea",southAsian
-Roma Tomatoes,0.66,$5.49/1kg $2.49/1lb,southAsian
-Ginger,0.78,$3.70/1kg $1.68/1lb,southAsian
-"Garlic Bulbs, 3-count",0.99,"90 g, $0.33/1ea",southAsian
-Mango,1.99,"1 ea, $1.99/1ea",southAsian
-Colossal Garlic,1.21,$12.10/1kg $5.49/1lb,southAsian
-Ataulfo Mango,1.47,"1 ea, $1.47/1ea",southAsian
-"Red Onions, 3 lb Bag",6.99,"1.36 kg, $0.51/100g",southAsian
-Purple Eggplants,3.13,$5.49/1kg $2.49/1lb,southAsian
-Roma Tomatoes,5.99,"1 ea, $0.44/100g",southAsian
-"Spinach, Bunched",2.49,"1 ea, $2.49/1ea",southAsian
-Long Eggplants,1.09,$4.37/1kg $1.98/1lb,southAsian
-Garlic Bulbs,6.50,"1 kg, $0.65/100g",southAsian
-"Mint, Fresh",1.99,"1 bunch, $1.99/1ea",southAsian
-Organic Garlic,3.99,"115 g, $3.47/100g",southAsian
-"Naan Original Flatbreads, 10 pack",5.00,"1 ea, $5.00/1ea",southAsian
-Naan Original 5 Flatbreads,3.99,"500 g, $0.80/100g",southAsian
-Naan Garlic Flatbreads,5.00,"1 kg, $0.50/100g",southAsian
-Naan Garlic 5 Flatbreads,3.99,"500 g, $0.80/100g",southAsian
-Okra,0.88,$8.80/1kg $3.99/1lb,southAsian
-Opo Squash,3.18,$5.05/1kg $2.29/1lb,southAsian
-"Mango Ataulfo, case",9.99,"1 ea, $9.99/1ea",southAsian
-Rapini,2.79,"1 bunch, $4.99/1ea",southAsian
-"Noodles, Masala",0.39,"70 g, $0.56/100g",southAsian
-Ginger,3.99,"160 g, $2.49/100g",southAsian
-Basmati Rice     ,13.99,"3.63 kg, $0.44/100g",southAsian
-Coconuts,2.98,"1 ea, $2.98/1ea",southAsian
-Veg Spring Roll,3.49,"400 g, $1.00/100g",southAsian
-Masala Munch Flavoured Snack,1.49,"115 g, $1.30/100g",southAsian
-Paneer,5.99,"341 g, $1.76/100g",southAsian
-Frozen Samosa,3.49,"400 g, $1.00/100g",southAsian
-Malai Paneer 20% M.F.,5.29,"375 g, $1.46/100g",southAsian
-Chilli Chatka Flavoured Snack,1.49,"115 g, $1.30/100g",southAsian
-Fenugreek,2.49,"1 bunch, $2.49/1ea",southAsian
-Biscuit Original Glucose,1.29,"300 g, $0.50/100g",southAsian
-Noodles Masala,1.49,"280 g, $0.64/100g",southAsian
-Karela,0.86,$6.59/1kg $2.99/1lb,southAsian
-Indian Eggplant,0.55,$5.49/1kg $2.49/1lb,southAsian
-Aged Basmati Rice,10.00,"3.63 kg, $0.28/100g",southAsian
-Magic Masala ridged flavoured potato chips,3.49,"165 g, $2.42/100g",southAsian
-3.25% M.F. Dahi Yogurt,2.49,"750 g, $0.37/100g",southAsian
-Dahi,2.79,"750 g, $0.47/100g",southAsian
-Paneer,5.29,"350 g, $1.51/100g",southAsian
-Non-Melting Cheese Paneer 20% M.F.,4.00,"300 g, $1.33/100g",southAsian
-"Red Onions, 10 lb Bag",13.99,"4.54 kg, $0.31/100g",southAsian
-Rice Basmati,17.99,"4.54 kg, $0.42/100g",southAsian
-Mango Red 3Ct,5.49,"3 ea, $1.83/1ea",southAsian
-<<<<<<< Updated upstream
-Moong Dal,9.99,"1 kg, $1.00/100g",southAsian
-=======
-Fiji Mix,3.19,"341 g, $0.94/100g",southAsian
-Cheddar Smokies ,10.99,"1 kg, $1.50/100g",sausage
-Original Smokies,10.99,"1 kg, $1.50/100g",sausage
-Original Breakfast Sausage,6.49,"375 g, $1.73/100g",sausage
-Maple Breakfast Sausage,6.49,"375 g, $1.73/100g",sausage
-Mild Italian Sausage,6.49,"500 g, $1.30/100g",sausage
-Free From Mild Italian Pork Sausages,7.99,"500 g, $1.60/100g",sausage
-Cheddar Jalapeno Smokies Pork Sausages,10.99,"1000 g, $1.50/100g",sausage
-"Smoked Sausage, Classic Cheddar",8.49,"375 g, $2.26/100g",sausage
-Free From Original Breakfast Pork Sausages,6.99,"375 g, $1.86/100g",sausage
-Hot Italian Sausage,6.49,"500 g, $1.30/100g",sausage
-"Smoked Sausages, Cheese",11.00,"900 g, $1.22/100g",sausage
-Original Bratwurst Sausage,6.49,"500 g, $1.30/100g",sausage
-"Smoked Sausage, Classic Recipe",8.49,"375 g, $2.26/100g",sausage
-Honey Garlic Smokies,10.99,"1 kg, $1.50/100g",sausage
-Italian Smokies,10.99,"1 kg, $1.50/100g",sausage
-Ground Mild Italian Sausage,6.49,"375 g, $1.73/100g",sausage
-Brown Sugar & Honey Breakfast Sausage,6.49,"375 g, $1.73/100g",sausage
-Honey Garlic Sausage,6.49,"500 g, $1.30/100g",sausage
-October Wurst Fully Cooked Pork Sausages,10.99,"1 kg, $1.50/100g",sausage
-Free From Maple Breakfast Pork Sausages,6.99,"375 g, $1.86/100g",sausage
-Free From Honey Garlic Flavoured Pork Sausages ,7.99,"500 g, $1.60/100g",sausage
-"Smoked Sausage, Cheddar",5.99,"375 g, $1.60/100g",sausage
-Original Breakfast Sausage Rounds,6.49,"250 g, $2.60/100g",sausage
-Original Smoked Sausages,11.00,"900 g, $1.22/100g",sausage
-Free From Hot Italian Pork Sausages,7.99,"500 g, $1.60/100g",sausage
-Breakfast Sausage,10.00,"1.2 kg, $0.83/100g",sausage
-Ultimate Chicken Wiener,6.99,"900 g, $0.78/100g",sausage
-Daystarters Sausage Turkey ,6.99,"375 g, $1.86/100g",sausage
-Free From Bangers Pork Sausages,7.99,"500 g, $1.60/100g",sausage
-Mild Italian Pork Sausages,12.86,"1.45 kg, $0.89/100g",sausage
-Free From Chorizo Pork Sausages,7.99,"500 g, $1.60/100g",sausage
-Sausage Mild Italian,7.99,"400 g, $2.00/100g",sausage
-Beyond Beef Grounds,7.99,"340 g, $2.35/100g",sausage
-Barese Sausage,6.00,"250 g, $2.40/100g",sausage
-Ground Hot Italian Sausage,6.49,"375 g, $1.73/100g",sausage
-Double Smoked Farmers Sausage,13.99,"500 g, $2.80/100g",sausage
-Beyond Sausage Hot Italian,7.99,"400 g, $2.00/100g",sausage
-"Smoked Sausage, Polish Style",5.99,"375 g, $1.60/100g",sausage
-Jalapeño And Cheddar Smoked Sausages,5.99,"375 g, $1.60/100g",sausage
-"Pork Sausages, Club Pack",18.17,$10.64/1kg $4.83/1lb,sausage
-Sausage Turkey Maple Flavour,6.99,"375 g, $1.86/100g",sausage
-Smoked & Fully Cooked Sausages Pure Pork Smoked Bratwurst,5.99,"375 g, $1.60/100g",sausage
-"Free From Original Breakfast Pork Sausages, Club Pack",9.99,"750 g, $1.33/100g",sausage
-Sweet Longanisa,4.99,"375 g, $1.33/100g",sausage
-"Smoked Sausage, Spicy Sicilian",8.49,"375 g, $2.26/100g",sausage
-Naturally Smoked Farmer Sausage,11.49,"500 g, $2.30/100g",sausage
-"Smokie, Cheddar Smoked Sausage",4.49,"175 g, $2.57/100g",sausage
-Hot Italian Pork Sausages,12.86,"1.45 kg, $0.89/100g",sausage
-=======
-Title,Price,Package Sizing,Category
-"Bananas, Bunch",1.75,$1.52/1kg $0.69/1lb,fruit
-Strawberries 1LB,4.99,"454 g, $1.10/100g",fruit
-Red Cherries,5.77,$6.48/1kg $2.94/1lb,fruit
-Red Seedless Watermelon,4.94,"1 ea, $4.94/1ea",fruit
-Blueberries 1 pint,4.99,"340 g, $1.47/100g",fruit
-"Avocados Bag, 5-Pack",6.99,"1 ea, $1.40/1ea",fruit
-Strawberries 2LB,8.99,"907 g, $0.99/100g",fruit
-Lemon,0.99,"1 ea, $0.99/1ea",fruit
-Extra Large Green Seedless Grapes,11.89,$11.66/1kg $5.29/1lb,fruit
-Limes,0.99,"1 ea, $0.99/1ea",fruit
-Raspberries 1/2 pint,4.99,"170 g, $2.94/100g",fruit
-Extra Large Red Seedless Grapes,11.54,$11.66/1kg $5.29/1lb,fruit
-"Organic Bananas, Bunch",2.16,$1.96/1kg $0.89/1lb,fruit
-Bartlett Pears,0.91,$4.34/1kg $1.97/1lb,fruit
-Avocado,1.99,"1 ea, $1.99/1ea",fruit
-Pineapple,4.99,"1 ea, $4.99/1ea",fruit
-Royal Gala Apples,1.38,$6.59/1kg $2.99/1lb,fruit
-Mango,1.99,"1 ea, $1.99/1ea",fruit
-Blueberries,5.98,"510 g, $1.57/100g",fruit
-Honeycrisp Apples,2.01,$8.36/1kg $3.79/1lb,fruit
-Cantaloupe,4.99,"1 ea, $4.99/1ea",fruit
-Navel Orange,1.54,$4.39/1kg $1.99/1lb,fruit
-Ontario Greenhouse-Grown Strawberries ,5.99,"340 g, $1.76/100g",fruit
-Blackberries 1/2 Pint,4.99,"170 g, $2.94/100g",fruit
-Raspberry Pint ,8.99,"340 g, $2.64/100g",fruit
-Granny Smith Apples,1.32,$6.59/1kg $2.99/1lb,fruit
-Green Seedless Grapes,5.98,"907 g, $0.88/100g",fruit
-Mandarin Oranges,8.99,"1.36 kg, $0.66/100g",fruit
-Ataulfo Mango,1.47,"1 ea, $1.47/1ea",fruit
-Apple Cosmic Crisp (5lb Bag),6.88,"2.27 ea, $6.88/1ea",fruit
-Yellow Peaches,1.32,$6.59/1kg $2.99/1lb,fruit
-Blueberries,8.99,"277 g, $3.25/100g",fruit
-Kiwis,1.29,"1 ea, $1.29/1ea",fruit
-Peaches ,7.99,"3 l, $0.27/100ml",fruit
-"Naturally Imperfect Avocados, 3 lb Bag",8.00,"1.36 kg, $0.59/100g",fruit
-Red Seedless Grapes,8.00,"907 g, $0.88/100g",fruit
-"Plantains, Single",1.08,$3.28/1kg $1.49/1lb,fruit
-Ambrosia Apples,1.45,$6.59/1kg $2.99/1lb,fruit
-Naturally Imperfect Limes,5.00,"907 g, $0.55/100g",fruit
-Blackberries 1 pint,7.99,"340 g, $2.35/100g",fruit
-Mini Seedless Watermelon,4.49,"1 ea, $4.49/1ea",fruit
-Papaya,5.38,$4.14/1kg $1.88/1lb,fruit
-Black Plums,0.88,$8.80/1kg $3.99/1lb,fruit
-Atemoya,4.99,"1 ea, $4.99/1ea",fruit
-"Naturally Imperfect Lemons, 4 lb Bag",7.00,"1.85 kg, $0.38/100g",fruit
-Black Figs,8.99,"340 g, $2.64/100g",fruit
-Pink Guava,7.00,"1 ea, $7.00/1ea",fruit
-Red Seedless Grapes,9.99,"907 g, $1.10/100g",fruit
-English Cucumber,2.29,"1 ea, $2.29/1ea",vegetable
-Tomato On The Vine Red (1 Bunch),5.46,$7.69/1kg $3.49/1lb,vegetable
-Green Onion,1.49,"1 bunch, $1.49/1ea",vegetable
-Asparagus,5.04,$8.55/1kg $3.88/1lb,vegetable
-Tomato Beefsteak  Red,1.18,$4.39/1kg $1.99/1lb,vegetable
-"Yellow Onions, 3 lb Bag",3.99,"1.36 kg, $0.29/100g",vegetable
-"Romaine Heart, 3 Pack",5.99,"3 pack, $2.00/1ea",vegetable
-Lettuce Iceberg,3.99,"1 ea, $3.99/1ea",vegetable
-Celery Stalks,3.29,"1 ea, $3.29/1ea",vegetable
-Red Onion,2.44,$6.59/1kg $2.99/1lb,vegetable
-Grape Tomatoes,3.49,"283 g, $1.23/100g",vegetable
-"Russet Potatoes, 10 lb Bag",7.99,"4.54 kg, $0.18/100g",vegetable
-"Bi-Colour Corn, Corn on the Cob",0.90,"1 ea, $0.90/1ea",vegetable
-Red Peppers    ,2.64,$11.00/1kg $4.99/1lb,vegetable
-English Cucumber 3Ct    ,5.99,"3 pack, $2.00/1ea",vegetable
-Broccoli Crowns,2.92,$7.69/1kg $3.49/1lb,vegetable
-Sweet Baby Peppers (4-Pack),6.99,"1 ea, $1.75/1ea",vegetable
-Cauliflower,4.99,"1 ea, $4.99/1ea",vegetable
-Ginger,0.78,$3.70/1kg $1.68/1lb,vegetable
-Sweet Green Peppers,1.60,$6.55/1kg $2.97/1lb,vegetable
-Mini Cucumbers,3.99,"6 pack, $0.67/1ea",vegetable
-Zucchini,2.15,$7.69/1kg $3.49/1lb,vegetable
-Roma Tomatoes,0.66,$5.49/1kg $2.49/1lb,vegetable
-"Garlic Bulbs, 3-count",0.99,"90 g, $0.33/1ea",vegetable
-Broccoli,3.49,"1 ea, $3.49/1ea",vegetable
-Naturally Imperfect Mixed Sweet Peppers 2.5lb Bag,7.00,"1.113 kg, $0.63/100g",vegetable
-Sweet Onion,3.03,$6.59/1kg $2.99/1lb,vegetable
-Sweet Potato,3.46,$5.49/1kg $2.49/1lb,vegetable
-Sweet Corn,5.99,"4 pack, $1.50/1ea",vegetable
-Grape Tomato 907G    ,5.99,"908 g, $0.66/100g",vegetable
-"Mini Carrots, 2 lb",4.99,"907 g, $0.55/100g",vegetable
-Whole White Mushrooms,4.99,"454 g, $1.10/100g",vegetable
-Colossal Garlic,1.21,$12.10/1kg $5.49/1lb,vegetable
-Mini Cucumbers,5.88,"15x1.0 ea, $0.39/1ea",vegetable
-"Red Field Peppers, 4-Pack",4.99,"1 ea, $1.25/1ea",vegetable
-Romaine Lettuce,3.79,"1 ea, $3.79/1ea",vegetable
-"Cabbage, Green",4.40,$2.62/1kg $1.19/1lb,vegetable
-Green Leaf Lettuce,2.99,"1 ea, $2.99/1ea",vegetable
-Yellow Mini Potatoes,4.99,"0.68 kg, $0.73/100g",vegetable
-"Carrots, 2 lb bag",3.49,"907 g, $0.38/100g",vegetable
-Radishes,1.99,"1 bunch, $1.99/1ea",vegetable
-White Onion,2.03,$5.49/1kg $2.49/1lb,vegetable
-White Mushrooms,3.49,"227 g, $1.54/100g",vegetable
-"Greenhouse Peppers, Orange",2.64,$11.00/1kg $4.99/1lb,vegetable
-Taiwanese Flat Cabbage,2.44,$2.16/1kg $0.98/1lb,vegetable
-Jalapeno Peppers,0.55,$11.00/1kg $4.99/1lb,vegetable
-Cameo Tomato On Vine,6.99,"340 g, $2.06/100g",vegetable
-Belgian Endive,1.32,$8.80/1kg $3.99/1lb,vegetable
+Curry Leaves,5.73,$44.07/1kg $20.00/1lb,vegetable
 Salted Butter,4.99,"454 g, $1.32/100g",butter and spreads
 Salted Butter ,8.49,"454 g, $1.87/100g",butter and spreads
 Margarine Spread,1.88,"427 g, $0.77/100g",butter and spreads
@@ -532,8 +141,8 @@ Whipped Butter,4.99,"250 g, $2.40/100g",butter and spreads
 Margarine Salt Free,6.99,"850 g, $0.82/100g",butter and spreads
 Vegetable Oil Margarine,9.99,"1.28 kg, $0.78/100g",butter and spreads
 "Dairy-Free Butter, Salted, Plant-Based ",5.99,"340 g, $1.76/100g",butter and spreads
+"Organic Spread, Rich & Creamy  ",5.79,"368 g, $1.57/100g",butter and spreads
 Lactose Free Butter Unsalted,8.79,"454 g, $1.94/100g",butter and spreads
-Original Spread,6.99,"850 g, $0.82/100g",butter and spreads
 "Milk, 2%",5.55,"4 l, $0.14/100ml",milk and cream
 Lactose Free 2% Dairy Product,5.69,"2 l, $0.31/100ml",milk and cream
 Homogenized Milk,5.81,"4 l, $0.15/100ml",milk and cream
@@ -553,15 +162,15 @@ Milk 1% Bottle,6.59,"1.5 l, $0.44/100ml",milk and cream
 "Caramel Plant-Based Coffee Creamer, Limited Edition",2.99,"450 ml, $0.66/100ml",milk and cream
 2% Milk,2.83,"1 l, $0.28/100ml",milk and cream
 "Caramel Macchiato Coffee Creamer,",4.44,"946 ml, $0.63/100ml",milk and cream
-2% Milk,2.21,"473 ml, $0.47/100ml",milk and cream
 Coffee Whitener,3.99,"450 g, $0.89/100g",milk and cream
-"Chocolate Milk, 1% MF",6.65,"4 l, $0.17/100ml",milk and cream
+2% Milk,2.21,"473 ml, $0.47/100ml",milk and cream
 Original Powder,12.99,"1.4 kg, $0.93/100g",milk and cream
+"Chocolate Milk, 1% MF",6.65,"4 l, $0.17/100ml",milk and cream
 Coffee Whitener,6.99,"1 kg, $0.70/100g",milk and cream
 "Organic Homogenized Milk, 3.25%",7.12,"2 l, $0.36/100ml",milk and cream
-Skim Milk,5.55,"4 l, $0.14/100ml",milk and cream
-"Organic Milk, 2% Mf",9.95,"4 l, $0.25/100ml",milk and cream
 COFFEE-MATE Original Powder,5.79,"450 g, $1.44/100g",milk and cream
+"Organic Milk, 2% Mf",9.95,"4 l, $0.25/100ml",milk and cream
+Skim Milk,5.55,"4 l, $0.14/100ml",milk and cream
 "Almond For Coffee, Vanilla, Plant Based, Dairy Free Coffee Creamer",2.99,"473 ml, $0.63/100ml",milk and cream
 Caramel Macchiato Cold Foam,4.44,"396 g, $1.84/100g",milk and cream
 Coffee Mate Liquid French Vanilla Value Size,9.29,"1.89 l, $0.49/100ml",milk and cream
@@ -573,15 +182,15 @@ Cream Lactose Free 10%,4.84,"1 l, $0.48/100ml",milk and cream
 Flavoured Milk,2.49,"473 ml, $0.53/100ml",milk and cream
 Coffee Mate Double Double-Mate Liquid Coffee Enhancer Value Size,9.29,"1.89 l, $0.49/100ml",milk and cream
 French Vanilla Milkshake,1.59,"310 ml, $0.51/100ml",milk and cream
-Dairy Protein Beverage 3.25% M.F.,7.37,"1.89 l, $0.39/100ml",milk and cream
 "Coffee Creamer, Vanilla Dip Donut",7.49,"750 ml, $1.00/100ml",milk and cream
-Chocolate Milkshake,1.59,"310 ml, $0.51/100ml",milk and cream
 Southern Butter Pecan Coffee Creamer,4.44,"946 ml, $0.63/100ml",milk and cream
-"Half / Half, 10%",3.12,"473 ml, $0.66/100ml",milk and cream
+Chocolate Milkshake,1.59,"310 ml, $0.51/100ml",milk and cream
+Dairy Protein Beverage 3.25% M.F.,7.37,"1.89 l, $0.39/100ml",milk and cream
 Light Coffee Whitener,3.99,"450 g, $0.89/100g",milk and cream
-Chocolate Milk 1% ,3.99,"1.89 l, $0.23/100ml",milk and cream
+"Half / Half, 10%",3.12,"473 ml, $0.66/100ml",milk and cream
 1% Milk,2.83,"1 l, $0.28/100ml",milk and cream
 Chocolate Milk Lactose Free,3.99,"1.89 l, $0.37/100ml",milk and cream
+Chocolate Milk 1% ,3.99,"1.89 l, $0.23/100ml",milk and cream
 Marble Cheddar Cheese Slices,3.99,"240 g, $2.29/100g",cheese
 "Medium Cheddar Cheese Slices, 12 units",3.99,"240 g, $2.29/100g",cheese
 Farmer's Marble Cheese,7.89,"700 g, $1.13/100g",cheese
@@ -622,20 +231,20 @@ Cheese Sticks Stringable Marble,11.99,"588 g, $2.04/100g",cheese
 "Mild Cheddar Cheese, Light",7.89,"700 g, $1.13/100g",cheese
 Old Cheddar Cheese,8.49,"600 g, $1.50/100g",cheese
 Shredded Old White Cheddar Cheese,5.99,"320 g, $1.87/100g",cheese
-Malai Paneer 20% M.F.,5.29,"375 g, $1.46/100g",cheese
 Stringable Cheese Pizza Mozzarella,11.99,"588 g, $2.04/100g",cheese
+Malai Paneer 20% M.F.,5.29,"375 g, $1.46/100g",cheese
 "Mozzarella Cheese Slices, 12 units",3.99,"240 g, $2.29/100g",cheese
 Marble Cheese,20.49,"1.15 kg, $1.78/100g",cheese
-Monterey Jack Cheese ,5.77,"400 g, $1.80/100g",cheese
 Soft Cream Cheese,6.49,"500 g, $1.30/100g",cheese
 Singles Mozzarella Processed Cheese Slices,4.49,"410 g, $1.10/100g",cheese
+Paneer,5.29,"350 g, $1.51/100g",cheese
 "Plain Yogurt 6%, Balkan Style",3.69,"750 g, $0.49/100g",yogurt
 "Yogurt With Probiotics, Vanilla Flavour",3.79,"650 g, $0.68/100g",yogurt
 Plain Greek Yogurt 0%,5.00,"750 g, $0.67/100g",yogurt
 "Nano Drinkable Yogurt, Strawberry 1%",4.99,"6x93.0 ml, $0.89/100ml",yogurt
 "Greek 0% Yogurt, Plain, High Protein",7.29,"750 g, $0.97/100g",yogurt
-"Yogurt With Probiotics, Vanilla Flavour",5.29,"8x100.0 g, $0.66/100g",yogurt
 Plain Greek Yogurt Club Size 2% M.F.,6.49,"1 kg, $0.65/100g",yogurt
+"Yogurt With Probiotics, Vanilla Flavour",5.29,"8x100.0 g, $0.66/100g",yogurt
 "Greek Yogurt, Key Lime Flavour, 2% M.F., Blended",3.33,"4x100.0 g, $1.15/100g",yogurt
 "Probiotic Yogurt, Strawberry/Blueberry/Raspberry/Peach Flavour",5.50,"12x100.0 g, $0.46/100g",yogurt
 Greek Yogurt Plain Flavour 2% ,5.00,"750 g, $0.67/100g",yogurt
@@ -666,8 +275,8 @@ Tubes Yogurt 1% M.F. Strawberry Banana & Fruit Punch,2.67,"448 g, $0.60/100g",yo
 "Greek Yogurt, Raspberry-Pomegramate Flavour, Fruit On Bottom, 2% M.F.,",3.33,"4x100.0 g, $1.15/100g",yogurt
 "Yop 3% Minigo Duo, Variety Pack, Kids Snack",2.67,"6x60.0 g, $0.74/100g",yogurt
 Tubes Yogurt Mixed Berry Flavour 1% M.F.,2.67,"448 g, $0.60/100g",yogurt
-"Yogurt With Probiotics, Cherry Flavour",3.89,"650 g, $0.68/100g",yogurt
 "Greek Yogurt, Blueberry Flavour, Fruit On The Bottom, 2% M.F.",3.33,"4x100.0 g, $1.15/100g",yogurt
+"Yogurt With Probiotics, Cherry Flavour",3.89,"650 g, $0.68/100g",yogurt
 "Source 0% Smooth Traditional Yogurt, Vanilla, No Added Sugar",2.67,"630 g, $0.42/100g",yogurt
 "Yop 1% Drinkable Yogurt Limited Edition, Yogurt Drink",1.29,"200 ml, $0.65/100ml",yogurt
 "Yop 1% Drinkable Yogurt, Vanilla, Yogurt Drink",1.29,"200 ml, $0.65/100ml",yogurt
@@ -736,10 +345,10 @@ Double Smoked Farmers Sausage,13.99,"500 g, $2.80/100g",Sausages
 Beyond Sausage Hot Italian,7.99,"400 g, $2.00/100g",Sausages
 "Free From Original Breakfast Pork Sausages, Club Pack",9.99,"750 g, $1.33/100g",Sausages
 "Smoked Sausage, Spicy Sicilian",8.49,"375 g, $2.26/100g",Sausages
-"Pork Sausages, Club Pack",18.17,$10.64/1kg $4.83/1lb,Sausages
+Smoked & Fully Cooked Sausages Pure Pork Smoked Bratwurst,5.99,"375 g, $1.60/100g",Sausages
 Sweet Longanisa,4.99,"375 g, $1.33/100g",Sausages
 Jalapeño And Cheddar Smoked Sausages,5.99,"375 g, $1.60/100g",Sausages
-Smoked & Fully Cooked Sausages Pure Pork Smoked Bratwurst,5.99,"375 g, $1.60/100g",Sausages
+"Pork Sausages, Club Pack",18.17,$10.64/1kg $4.83/1lb,Sausages
 Sausage Turkey Maple Flavour,6.99,"375 g, $1.86/100g",Sausages
 "Smokie, Cheddar Smoked Sausage",4.49,"175 g, $2.57/100g",Sausages
 "Smoked Sausage, Polish Style",5.99,"375 g, $1.60/100g",Sausages
@@ -801,7 +410,6 @@ Beef Stir-Fry Strips,9.12,$26.43/1kg $11.99/1lb,beef
 Halal Stewing Beef,13.22,$26.43/1kg $11.99/1lb,beef
 Free From Bison Burgers,14.00,"512 g, $2.73/100g",beef
 Prime Beef Striploin Grilling Steak,21.33,$53.99/1kg $24.50/1lb,beef
-Beef Rib Finger Meat Boneless,26.05,$21.78/1kg $9.88/1lb,beef
 Italian Meatballs,9.99,"680 g, $1.47/100g",beef
 Beef Boneless Prime Rib Steak,22.63,$63.92/1kg $29.00/1lb,beef
 "Beef Outside Round Roast, Club Pack",49.50,$22.02/1kg $9.99/1lb,beef
@@ -810,6 +418,7 @@ Inside Round Roast,29.61,$28.64/1kg $12.99/1lb,beef
 Sirloin Beef Meatballs,16.99,"907 g, $1.87/100g",beef
 Beef Inside Round Roast Club Pack ,40.56,$22.02/1kg $9.99/1lb,beef
 "Beef Burgers, Fully Cooked",34.99,"2.27 kg, $1.54/100g",beef
+Prime Rib Beef Burger,18.99,"1.02 kg, $1.86/100g",beef
 Boneless Skinless Chicken Breasts,16.00,"1 ea, $16.00/1ea",ChickenTurkey
 Minced Turkey,8.00,"454 g, $1.76/100g",ChickenTurkey
 "Pub Style Chicken Strips, Fully Cooked",10.99,"700 g, $1.57/100g",ChickenTurkey
@@ -840,24 +449,24 @@ Chicken Leg Quarters Club Pack,17.51,$9.46/1kg $4.29/1lb,ChickenTurkey
 "Chicken Fries, Fully Cooked",10.00,"1.5 kg, $0.67/100g",ChickenTurkey
 Extra Lean Ground Turkey,8.00,"454 g, $1.76/100g",ChickenTurkey
 Breaded Chicken Cutlettes Chicken Strips,6.00,"908 g, $0.66/100g",ChickenTurkey
-"Pub Recipe Chicken Strips, Fully Cooked, Club Size",10.99,"1.4 kg, $0.79/100g",ChickenTurkey
 Grade A Fresh Turkey 7-9 Kg,56.24,$7.03/1kg $3.19/1lb,ChickenTurkey
+"Pub Recipe Chicken Strips, Fully Cooked, Club Size",10.99,"1.4 kg, $0.79/100g",ChickenTurkey
 Too Good To Be Wings Maple Barbecue Boneless Coated Chicken Breast Chunks,14.99,"800 g, $1.87/100g",ChickenTurkey
-"Frozen Utility Turkey, 3-5kg",31.07,$7.03/1kg $3.19/1lb,ChickenTurkey
-Grade A Fresh Turkey 11 Kg and Up,66.42,$8.14/1kg $3.69/1lb,ChickenTurkey
-"Boneless Chicken Bites, Honey Garlic",16.99,"710 g, $2.39/100g",ChickenTurkey
-"Free From Chicken Thigh, Bone-in, Skin-on",10.04,$17.62/1kg $7.99/1lb,ChickenTurkey
 Chicken Breast Roast Wild Rice & Mushroom Stuffing,14.99,"1 kg, $1.50/100g",ChickenTurkey
 "Free From Chicken Thigh, Boneless, Skinless",12.12,$24.23/1kg $10.99/1lb,ChickenTurkey
+Grade A Fresh Turkey 11 Kg and Up,66.42,$8.14/1kg $3.69/1lb,ChickenTurkey
+"Frozen Utility Turkey, 3-5kg",31.07,$7.03/1kg $3.19/1lb,ChickenTurkey
+"Free From Chicken Thigh, Bone-in, Skin-on",10.04,$17.62/1kg $7.99/1lb,ChickenTurkey
 Back Attached Chicken Legs,12.00,"1.6 kg, $0.75/100g",ChickenTurkey
+"Boneless Chicken Bites, Honey Garlic",16.99,"710 g, $2.39/100g",ChickenTurkey
 Homestyle Stuffing,7.29,"900 g, $0.81/100g",ChickenTurkey
-Frozen Grade A Turkey 7-9 Kg,61.52,$7.69/1kg $3.49/1lb,ChickenTurkey
-Boneless Chicken Bites Buffalo,16.99,"710 g, $2.39/100g",ChickenTurkey
 "Frozen Utility Turkey, 11kg and up",108.43,$7.03/1kg $3.19/1lb,ChickenTurkey
 Free From Whole Chicken,22.32,$13.21/1kg $5.99/1lb,ChickenTurkey
+Boneless Chicken Bites Buffalo,16.99,"710 g, $2.39/100g",ChickenTurkey
 Frozen Whole Frying Chicken,11.90,$6.61/1kg $3.00/1lb,ChickenTurkey
+Frozen Grade A Turkey 7-9 Kg,61.52,$7.69/1kg $3.49/1lb,ChickenTurkey
 Breaded Chicken Cutlettes Chicken Nuggets Club Size,10.99,"1810 g, $0.61/100g",ChickenTurkey
-Nashville Breaded Chicken Bites,14.99,"700 g, $2.14/100g",ChickenTurkey
+Jerk Chicken Wings,14.99,"907 g, $1.65/100g",ChickenTurkey
 Free From Lean Ground Pork,5.49,"454 g, $1.21/100g",PorkHam
 "Fully Cooked Pork Back Ribs, Smokin Stampede",10.99,"500 g, $2.20/100g",PorkHam
 "Free From Boneless Centre Pork Chop, Club Pack",18.34,$15.41/1kg $6.99/1lb,PorkHam
@@ -876,36 +485,36 @@ Free From Pork Loin Combo Chops,17.14,$11.66/1kg $5.29/1lb,PorkHam
 97% Fat Free Lower Sodium Smoked Ham,15.99,"700 g, $2.28/100g",PorkHam
 Lethbridge Pork Tenderloin,6.55,$12.10/1kg $5.49/1lb,PorkHam
 Pork Combo Chops,17.29,$11.00/1kg $4.99/1lb,PorkHam
-Frozen Pork Back Ribs,28.14,$11.00/1kg $4.99/1lb,PorkHam
 "Free From Bone In Fast Fry Pork Center Cut, Tray Pack",10.90,$16.51/1kg $7.49/1lb,PorkHam
-Honey Garlic Pork Tenderloin,12.99,"680 g, $1.91/100g",PorkHam
 "Free from Bone in Center Cut chop Fast Fry, Club Size",23.23,$16.51/1kg $7.49/1lb,PorkHam
 Lethbridge Boneless Pork Leg Roast,15.31,$15.40/1kg $6.99/1lb,PorkHam
 "Free From Pork Breast Bones, Tray Pack",4.07,$5.49/1kg $2.49/1lb,PorkHam
 "Free From Pork Side Slices, Tray Pack",5.75,$19.82/1kg $8.99/1lb,PorkHam
-Montana's Texan BBQ Ribs,13.99,"650 g, $2.15/100g",PorkHam
 "Free From Bone In Pork Center Cut Chops, Tray Pack",7.86,$15.41/1kg $6.99/1lb,PorkHam
 Boneless Pork Bites,6.99,"400 g, $1.75/100g",PorkHam
 "Free From Boneless Rib End Pork Chops, Tray Pack",5.81,$15.41/1kg $6.99/1lb,PorkHam
+Montana's Texan BBQ Ribs,13.99,"650 g, $2.15/100g",PorkHam
+Honey Garlic Pork Tenderloin,12.99,"680 g, $1.91/100g",PorkHam
+Frozen Pork Back Ribs,28.14,$11.00/1kg $4.99/1lb,PorkHam
 Pork Half Loin,26.40,$8.80/1kg $3.99/1lb,PorkHam
-Free From Pork Tenderloin,15.56,$15.41/1kg $6.99/1lb,PorkHam
-"Free From Pork Back Ribs, Club Pack",31.74,$15.41/1kg $6.99/1lb,PorkHam
 "Free From Pork Tenderloin, Club Pack",27.90,$14.31/1kg $6.49/1lb,PorkHam
+"Free From Pork Back Ribs, Club Pack",31.74,$15.41/1kg $6.99/1lb,PorkHam
+Free From Pork Tenderloin,15.56,$15.41/1kg $6.99/1lb,PorkHam
+Pork Liver,9.44,$14.30/1kg $6.49/1lb,PorkHam
 Chinese Pork Tenderloin,12.99,"680 g, $1.91/100g",PorkHam
 "Free From Pork Shoulder Blade Steaks, Tray Pack",12.53,$15.41/1kg $6.99/1lb,PorkHam
 "Lethbridge Pork Butt Roast, Boneless",20.22,$17.61/1kg $7.99/1lb,PorkHam
-Frozen Pork Bone-In Half Loin Bagged,33.00,$8.80/1kg $3.99/1lb,PorkHam
 Original Natural Smoked Ham,14.49,"600 g, $2.42/100g",PorkHam
-Pork Tenderloin Spinach & Feta Cheese,11.49,"500 g, $2.30/100g",PorkHam
-Pork Liver,9.44,$14.30/1kg $6.49/1lb,PorkHam
 Smoked Pork Hocks,11.65,$9.90/1kg $4.49/1lb,PorkHam
+Pork Side Rib Briskets,5.18,$6.59/1kg $2.99/1lb,PorkHam
 Free From Smoked Ham,14.49,"700 g, $2.07/100g",PorkHam
 "Free From Pork Side Ribs Sweet & Sour, Tray Pack",19.95,$13.21/1kg $5.99/1lb,PorkHam
-Pork Side Rib Briskets,5.18,$6.59/1kg $2.99/1lb,PorkHam
-Lethbridge Pork Frenched Rib Chop Bone In,9.67,$20.92/1kg $9.49/1lb,PorkHam
-"Free From Pork Leg Roast, Tray Pack",14.76,$15.41/1kg $6.99/1lb,PorkHam
-Lethbridge Pork Back Ribs,10.15,$19.48/1kg $8.84/1lb,PorkHam
 "Pork Loin Bone-in Rib End Chop, Club Pack",18.46,$14.31/1kg $6.49/1lb,PorkHam
+"Free From Pork Leg Roast, Tray Pack",14.76,$15.41/1kg $6.99/1lb,PorkHam
+Natural Smoked Black Forest Ham,14.99,"600 g, $2.50/100g",PorkHam
+Pork Tenderloin Spinach & Feta Cheese,11.49,"500 g, $2.30/100g",PorkHam
+Frozen Pork Bone-In Half Loin Bagged,33.00,$8.80/1kg $3.99/1lb,PorkHam
+Lethbridge Pork Frenched Rib Chop Bone In,9.67,$20.92/1kg $9.49/1lb,PorkHam
 Hickory Smoked Classic Cut Bacon,3.99,"375 g, $2.66/100g",Bacon
 Hickory Smoked 50% Less Salt Bacon,3.99,"375 g, $2.40/100g",Bacon
 Bacon,7.99,"500 g, $1.60/100g",Bacon
@@ -1006,8 +615,8 @@ Halal Chicken Wieners,3.99,"450 g, $0.89/100g",HalalMeat
 Chicken Breast Nuggets,11.49,"800 g, $1.44/100g",HalalMeat
 Free From Australian Lamb Boneless Leg ,33.44,$24.23/1kg $10.99/1lb,HalalMeat
 Spicy Supreme Chicken Frankfurters,7.99,"900 g, $0.89/100g",HalalMeat
-Free From Rosemary and Garlic Australian Lamb,22.32,$27.09/1kg $12.29/1lb,HalalMeat
 Chicken Breast Strips,11.49,"800 g, $1.44/100g",HalalMeat
+Free From Rosemary and Garlic Australian Lamb,22.32,$27.09/1kg $12.29/1lb,HalalMeat
 Sliced Cooked Chicken Breast Roast,4.99,"200 g, $2.50/100g",HalalMeat
 Halal Sliced Chicken Bologna,6.49,"500 g, $1.30/100g",HalalMeat
 Breaded Chicken Burgers,11.49,"800 g, $1.44/100g",HalalMeat
@@ -1023,8 +632,8 @@ Free From Australian Lamb Frenched Rack,34.38,$57.30/1kg $26.00/1lb,HalalMeat
 Frozen Chicken Fries,11.49,"800 g, $1.44/100g",HalalMeat
 Free From Short Cut Leg Australian Lamb,60.78,$22.02/1kg $9.99/1lb,HalalMeat
 Bone in Lamb Stew,27.99,"1.25 kg, $2.24/100g",HalalMeat
-Lamb Rack Frenched Frozen,23.42,$48.48/1kg $22.00/1lb,HalalMeat
 Halal Barbeque Chicken Wings,17.99,"908 g, $1.98/100g",HalalMeat
+Lamb Rack Frenched Frozen,23.42,$48.48/1kg $22.00/1lb,HalalMeat
 Top Sirloin Steak,33.05,$33.05/1kg,HalalMeat
 Halal Diced Beef,13.99,"454 g, $3.08/100g",HalalMeat
 Buffalo Wings Spicy,17.99,"908 g, $1.98/100g",HalalMeat
@@ -1161,7 +770,7 @@ Cream-Style Corn,1.29,"398 ml, $0.32/100ml",CanFOOD
 "Black Beans, No Salt Added",1.99,"540 ml, $0.37/100ml",CanFOOD
 Sliced Sun-Dried Tomatoes In Seasoned Oil,5.99,"270 ml, $2.22/100ml",CanFOOD
 French-Canadian Pea Soup,2.99,"796 ml, $0.41/100ml",CanFOOD
-Very Cherry,4.49,"796 ml, $0.63/100ml",CanFOOD
+"Aroy-D, Green Curry",2.79,"400 g, $0.75/100g",CanFOOD
 100% Pure Canola Oil,8.29,"3 l, $0.28/100ml",OilsVinegar
 Pure White Vinegar Club Size,2.27,"4 l, $0.06/100ml",OilsVinegar
 Pure White Vinegar,1.49,"1 l, $0.15/100ml",OilsVinegar
@@ -1346,8 +955,8 @@ Banana - Sliced,3.99,"600 g, $0.67/100g",FrozenFruit
 Whole Green Beans,2.59,"750 g, $0.35/100g",FrozenFruit
 "Broccoli Florets, Club Size ",9.99,"1.75 kg, $0.57/100g",FrozenFruit
 Chili Lime Pineapple Skewers ,5.00,"300 g, $1.67/100g",FrozenFruit
-Avocado Chunks,3.99,"400 g, $1.00/100g",FrozenFruit
 Chopped Spinach,3.49,"500 g, $0.70/100g",FrozenFruit
+Avocado Chunks,3.99,"400 g, $1.00/100g",FrozenFruit
 Whole Strawberries,14.00,"2 kg, $0.70/100g",FrozenFruit
 Butternut Squash Chunks ,3.49,"750 g, $0.47/100g",FrozenFruit
 Naturally Imperfect Mango Chunks,3.00,"400 g, $0.75/100g",FrozenFruit
@@ -1395,12 +1004,12 @@ Chicken Swiss,10.00,"994 g, $1.01/100g",FrozenMeat
 "Fully Cooked, Breaded Chicken Nuggets Cutlettes",6.00,"908 g, $0.66/100g",FrozenMeat
 "Fully Cooked, Breaded Chicken Burgers",6.00,"908 g, $0.66/100g",FrozenMeat
 Breaded Butterflied Shrimp ,11.99,"400 g, $3.00/100g",FrozenMeat
+Oak-Smoked Citrus and Gin Scottish Atlantic Salmon,10.99,"125 g, $8.79/100g",FrozenMeat
 Ocean Perch,12.29,$8.80/1kg $3.99/1lb,FrozenMeat
 "Pub Recipe Chicken Strips, Fully Cooked, Club Size",10.99,"1.4 kg, $0.79/100g",FrozenMeat
-Oak-Smoked Citrus and Gin Scottish Atlantic Salmon,10.99,"125 g, $8.79/100g",FrozenMeat
 Chicken Mini Cutlettes Breaded ,8.99,"1 kg, $0.90/100g",FrozenMeat
+Wild Caught Argentinian Shrimp,9.99,"300 g, $3.33/100g",FrozenMeat
 Too Good To Be Wings Maple Barbecue Boneless Coated Chicken Breast Chunks,14.99,"800 g, $1.87/100g",FrozenMeat
-Honey Garlic Pork Tenderloin,12.99,"680 g, $1.91/100g",FrozenMeat
 Gourmet West Coast Dark Roast Fine Grind Coffee,15.99,"875 g, $1.83/100g",coffee
 Classic Roast Ground Coffee,12.99,"816 g, $1.59/100g",coffee
 The Great Canadian Light to Medium Roast Fine Grind Coffee,15.99,"930 g, $1.72/100g",coffee
@@ -1538,8 +1147,8 @@ Organics Cooked Black Tiger Shrimp,20.00,"340 g, $5.88/100g",Shrimp
 Raw HOSO Thai White Shrimp,6.99,"340 g, $2.06/100g",Shrimp
 "Cooked Shrimp Tail, 31-40 ct",7.07,$25.99/1kg $11.79/1lb,Shrimp
 Herb & Garlic Marinated Mussels ,4.99,"250 ml, $2.00/100g",Shrimp
-Argentinian Shrimp,10.99,"300 g, $3.66/100g",Shrimp
 Peeled Shrimp,11.99,"400 g, $3.00/100g",Shrimp
+Argentinian Shrimp,10.99,"300 g, $3.66/100g",Shrimp
 Select Shrimp Herb & Garlic Marinated ,7.99,"212 g, $3.20/100ml",Shrimp
 Select Seafood Salad Marinated   ,7.99,"212 g, $3.20/100ml",Shrimp
 "Shrimp, Fresh Peeled",3.54,$19.82/1kg $8.99/1lb,Shrimp
@@ -1586,8 +1195,8 @@ Organics Cooked Black Tiger Shrimp,20.00,"340 g, $5.88/100g",Fish
 Raw HOSO Thai White Shrimp,6.99,"340 g, $2.06/100g",Fish
 "Cooked Shrimp Tail, 31-40 ct",7.07,$25.99/1kg $11.79/1lb,Fish
 Herb & Garlic Marinated Mussels ,4.99,"250 ml, $2.00/100g",Fish
-Argentinian Shrimp,10.99,"300 g, $3.66/100g",Fish
 Peeled Shrimp,11.99,"400 g, $3.00/100g",Fish
+Argentinian Shrimp,10.99,"300 g, $3.66/100g",Fish
 Select Shrimp Herb & Garlic Marinated ,7.99,"212 g, $3.20/100ml",Fish
 Select Seafood Salad Marinated   ,7.99,"212 g, $3.20/100ml",Fish
 "Shrimp, Fresh Peeled",3.54,$19.82/1kg $8.99/1lb,Fish
@@ -1615,8 +1224,8 @@ Pink Salmon Headless,7.03,$7.25/1kg $3.29/1lb,salmon
 Dressed Rainbow Trout,12.77,$22.02/1kg $9.99/1lb,salmon
 Catch of the Day Salmon Fillets,16.79,"680 g, $2.47/100g",salmon
 Trident Sockeye Salmon,24.27,$33.71/1kg $15.29/1lb,salmon
-"Fresh Steelhead Trout Fillet, Club Pack",24.75,$33.05/1kg $15.00/1lb,salmon
 Sockeye Salmon Collar Belly,6.44,$8.80/1kg $3.99/1lb,salmon
+"Fresh Steelhead Trout Fillet, Club Pack",24.75,$33.05/1kg $15.00/1lb,salmon
 "Veggie Hot Dogs, Family Pack",6.49,"450 g, $1.44/100g",MeatAlternatives
 Veggie Ham Slices,4.49,"155 g, $2.90/100g",MeatAlternatives
 "Veggie Ground Round, Original",5.99,"340 g, $1.76/100g",MeatAlternatives
@@ -1653,5 +1262,98 @@ Big Brat Veggie Links,6.00,"300 g, $2.00/100g",MeatAlternatives
 Fiesta Veggie Links,6.00,"300 g, $2.00/100g",MeatAlternatives
 No-Chicken Strips,6.99,"200 g, $3.50/100g",MeatAlternatives
 Broccoli Boost Veggie Grounds ,6.00,"340 g, $1.76/100g",MeatAlternatives
->>>>>>> 8a6e8d503962c09f814c5d628b34dd74f98d33f8
->>>>>>> Stashed changes
+Thick Slices Bread,2.99,"675 g, $0.44/100g",bread
+White Baguette,1.00,"255 g, $0.39/100g",bread
+14 Grains Bread,3.49,"600 g, $0.58/100g",bread
+"Bread, French",1.25,"450 g, $0.28/100g",bread
+"Sourdough Loaf, Sliced",3.00,"675 g, $0.44/100g",bread
+100% Whole Wheat Bread,1.99,"520 g, $0.38/100g",bread
+Original Bread,1.99,"520 g, $0.38/100g",bread
+Ancient Grains & Red Fife Bread,3.49,"600 g, $0.58/100g",bread
+Thick Slice Bread 100% Whole Wheat ,2.99,"675 g, $0.44/100g",bread
+Protein Bread,3.49,"600 g, $0.58/100g",bread
+Cinnamon Raisin Bread,3.49,"600 g, $0.58/100g",bread
+Sourdough Bread Boule,3.00,"675 g, $0.44/100g",bread
+Sourdough Sliced Miche,5.29,"800 g, $0.66/100g",bread
+White Bread,3.49,"570 g, $0.61/100g",bread
+100% Whole Wheat Bread,3.79,"675 g, $0.56/100g",bread
+Stone Milled Whole Wheat Bread,3.49,"600 g, $0.58/100g",bread
+Quinoa Flax Bread,3.49,"600 g, $0.58/100g",bread
+White Miche Sliced,5.29,"800 g, $0.66/100g",bread
+Whole Grains Bread No Sugar Added,3.49,"600 g, $0.58/100g",bread
+White Bread,2.79,"450 g, $0.62/100g",bread
+"French Bread, Crusty Unsliced",1.25,"450 g, $0.28/100g",bread
+Whole Wheat Baguette,1.00,"255 g, $0.39/100g",bread
+Whole Wheat Bread,3.49,"570 g, $0.61/100g",bread
+Everything Bread,3.49,"600 g, $0.58/100g",bread
+"Sourdough Bread, Sliced",3.00,"675 g, $0.44/100g",bread
+Rye Bread,5.49,"900 g, $0.96/100g",bread
+"Bread, White + Fibre",3.49,"570 g, $0.61/100g",bread
+Thick Sliced Brioche-Style Loaf,2.99,"620 g, $0.48/100g",bread
+Whole Wheat Bread,2.79,"450 g, $0.62/100g",bread
+Sourdough Loaf,3.49,"650 g, $0.54/100g",bread
+Sliced Brioche Bread,6.49,"500 g, $1.30/100g",bread
+Ready to Bake Garlic Toast,3.99,"638 g, $0.63/100g",bread
+Bread Original Swedish Style Light Rye,4.49,"680 g, $0.66/100g",bread
+Garlic Toast,4.49,"555 g, $0.81/100g",bread
+Bread Cheese,5.49,"450 g, $1.22/100g",bread
+Bread Amazing Grain,3.99,"450 g, $0.89/100g",bread
+Red Pepper & Tomato Ciabatta,2.99,"225 g, $1.33/100g",bread
+Cinnamon Raisin Bread Extra Thick,5.49,"675 g, $0.81/100g",bread
+"7 Grain Bread, Sliced",3.29,"570 g, $0.73/100g",bread
+Ready Bake Garlic Bread,2.59,"284 g, $0.91/100g",bread
+Bread Seeded,9.99,"544 g, $1.84/100g",bread
+Ready to bake - All-Butter Croissants,5.99,"312 g, $1.92/100g",bread
+Bread Cinnamon Raisin Gluten Free,9.49,"550 g, $1.73/100g",bread
+Ready Bake Garlic Toast Texas-Style Bread,5.29,"16x40.0 g, $0.83/100g",bread
+The Big 16,5.49,"615 g, $0.89/100g",bread
+Ciabatta Cluster,3.99,"400 g, $1.00/100g",bread
+"Bread, Whole Wheat  Unsliced Club Pack",6.49,"1.8 kg, $0.36/100g",bread
+Natural Old Fashioned Brown Sugar,3.79,"1 kg, $0.38/100g",bakingEssentials
+Large Marshmallows,2.47,"400 g, $0.70/100g",bakingEssentials
+Baking Soda,1.99,"500 g, $0.40/100g",bakingEssentials
+Granulated White Sugar,3.27,"2 kg, $0.16/100g",bakingEssentials
+"Chipits Milk Chocolate Chips, 250G",3.44,"250 g, $1.92/100g",bakingEssentials
+Granulated White Sugar,5.49,"4 kg, $0.14/100g",bakingEssentials
+The Decadent Semi-Sweet Chocolate Chips,3.49,"300 g, $1.16/100g",bakingEssentials
+All-Purpose Flour,3.77,"2.5 kg, $0.15/100g",bakingEssentials
+Mini Marshmallows,2.79,"400 g, $0.70/100g",bakingEssentials
+Pure Pumpkin,6.79,"796 ml, $0.85/100ml",bakingEssentials
+The Decadent Milk Chocolate Chips,3.49,"270 g, $1.29/100g",bakingEssentials
+"Chipits Pure Semi-Sweet Chocolate Chips, 270G",3.44,"270 g, $1.77/100g",bakingEssentials
+Extra-Fluffy Buttermilk Pancake & Waffle Mix,3.29,"905 g, $0.36/100g",bakingEssentials
+All-Purpose Flour,11.97,"10 kg, $0.12/100g",bakingEssentials
+The Decadent Semi-Sweet Mini Chocolate Chips,3.49,"300 g, $1.16/100g",bakingEssentials
+Vanilla Instant Pudding Mix,1.29,"102 g, $1.26/100g",bakingEssentials
+Original All Purpose Flour,6.49,"2.5 kg, $0.26/100g",bakingEssentials
+Icing Sugar,3.79,"1 kg, $0.38/100g",bakingEssentials
+Super Moist Cake Mix Rainbow Bits,2.29,"375 g, $0.61/100g",bakingEssentials
+"Strawberry Jelly Powder, Gelatin Mix",1.29,"85 g, $1.52/100g",bakingEssentials
+Gluten-Free Corn Starch,4.49,"454 g, $0.99/100g",bakingEssentials
+Super Moist Cake Mix Devil's Food,2.29,"375 g, $0.61/100g",bakingEssentials
+Original Extra-Fluffy Pancake And Waffle Mix,3.29,"905 g, $0.36/100g",bakingEssentials
+S'mores Kit,8.79,"600 g, $1.47/100g",bakingEssentials
+Baking Powder,5.49,"450 g, $1.22/100g",bakingEssentials
+Unbleached All-Purpose Flour,3.77,"2.5 kg, $0.15/100g",bakingEssentials
+Super Moist Cake Mix French Vanilla,2.29,"375 g, $0.61/100g",bakingEssentials
+100% Pure Corn Starch,3.99,"454 g, $0.88/100g",bakingEssentials
+The Decadent Milk Chocolate Chips,10.99,"775 g, $1.42/100g",bakingEssentials
+Baking Soda,5.79,"2 kg, $0.29/100g",bakingEssentials
+Chocolate Instant Pudding Mix,1.29,"113 g, $1.14/100g",bakingEssentials
+"Chipits Special Dark Chocolate Chips, 225G",3.44,"225 g, $2.13/100g",bakingEssentials
+"All Purpose Original Flour, Enriched / Pre-Sifted",4.00,"5 kg, $0.12/100g",bakingEssentials
+Super Moist Cake Mix Chocolate Fudge,2.29,"375 g, $0.61/100g",bakingEssentials
+Chipits Skor Toffee Bits Baking Candy,3.44,"200 g, $2.25/100g",bakingEssentials
+"Orange Jelly Powder, Gelatin Mix",1.29,"85 g, $1.52/100g",bakingEssentials
+Multi-Coloured Mini Marshmallows,2.79,"400 g, $0.70/100g",bakingEssentials
+Chipits Butterscotch Baking Chips,3.44,"270 g, $1.77/100g",bakingEssentials
+Deluxe Mixed Nuts with Sea Salt,22.99,"1.13 kg, $2.03/100g",bakingEssentials
+"Berry Blue Jelly Powder, Gelatin Mix",1.29,"85 g, $1.52/100g",bakingEssentials
+Unsweetened Medium Coconut,2.29,"200 g, $1.15/100g",bakingEssentials
+"Chipits Milk Chocolate Chips, 835G",11.49,"835 g, $1.38/100g",bakingEssentials
+Natural Turbinado Sugar Canister,4.29,"500 g, $0.86/100g",bakingEssentials
+Golden Yellow Sugar,3.79,"1 kg, $0.38/100g",bakingEssentials
+Fridge-N-Freezer Baking Soda,2.29,"500 g, $0.46/100g",bakingEssentials
+Organic Blue Agave,16.49,"900 ml, $1.83/100ml",bakingEssentials
+Royal Figs,9.49,"454 g, $2.09/100g",bakingEssentials
+Organic Coconut Flour,8.49,"500 g, $1.70/100g",bakingEssentials

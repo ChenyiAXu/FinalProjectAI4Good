@@ -117,12 +117,21 @@ coffee ["userData"]["sessionId"] = "bfacc561-aeb2-44b1-bfed-217c6cd3c2be"
 
 TeaHotDrinks  = common_data.copy()
 TeaHotDrinks ["userData"]["sessionId"] = "bfacc561-aeb2-44b1-bfed-217c6cd3c2be"
+
 Shrimp  = common_data.copy()
 Shrimp ["userData"]["sessionId"] = "bfacc561-aeb2-44b1-bfed-217c6cd3c2be"
+
 Fish  = common_data.copy()
 Fish ["userData"]["sessionId"] = "bfacc561-aeb2-44b1-bfed-217c6cd3c2be"
+
 salmon  = common_data.copy()
 salmon ["userData"]["sessionId"] = "bfacc561-aeb2-44b1-bfed-217c6cd3c2be"
+
+bread = common_data.copy()
+bread ["userData"]["sessionId"] = "998e81b4-218e-4e07-a4c1-0542a2f84438"
+
+bakingEssentials = common_data.copy()
+bakingEssentials["userData"]["sessionId"] = "998e81b4-218e-4e07-a4c1-0542a2f84438"
 
 
 
@@ -185,6 +194,8 @@ categories = {
     "Fish": ('listingPage/28218', Fish),
     "salmon": ('listingPage/28217', salmon),
     "MeatAlternatives": ('listingPage/59318', MeatAlternatives),
+    "bread":('listingPage/28251',bread),
+    "bakingEssentials":('listingPage/28186',bakingEssentials)
 }
 
 
@@ -209,7 +220,5 @@ try:
     print(f"Data successfully written to {csv_file}")
 except IOError:
     print("I/O error while writing to CSV")
-print("hello")
-
 
 
