@@ -161,7 +161,6 @@ categories = {
     "milk and cream": ('listingPage/28224', milk_cream),
     "cheese": ('listingPage/28225', cheese),
     "yogurt": ('listingPage/28227', yogurt),
-<<<<<<< Updated upstream
     "southAsian": ('listingPage/58045', southAsian),
     "Sausages": ('listingPage/28170', Sausages),
     "southAsian": ('listingPage/28171', LambVeal),
@@ -186,9 +185,6 @@ categories = {
     "Fish": ('listingPage/28218', Fish),
     "salmon": ('listingPage/28217', salmon),
     "MeatAlternatives": ('listingPage/59318', MeatAlternatives),
-=======
-    "southAsian": ('listingPage/58045', southAsian)
->>>>>>> Stashed changes
 }
 
 
