@@ -57,9 +57,73 @@ yogurt["userData"]["sessionId"] = "bec28050-b5fa-4e01-b836-93fc4af4b3d3"
 
 southAsian = common_data.copy()
 southAsian["userData"]["sessionId"] = "bec28050-b5fa-4e01-b836-93fc4af4b3d3"
- 
-sausage = common_data.copy()
-sausage["userData"]["sessionId"] = "60c3c096-f5d6-4a6c-b210-fe7e3a3c458b"
+
+Sausages = common_data.copy()
+Sausages["userData"]["sessionId"] = "7a20ee46-9f2a-4d58-bd81-a8f5c9c4fb0c"
+
+LambVeal = common_data.copy()
+LambVeal["userData"]["sessionId"] = "7a20ee46-9f2a-4d58-bd81-a8f5c9c4fb0c"
+
+MarinatedMeat = common_data.copy()
+MarinatedMeat["userData"]["sessionId"] = "7a20ee46-9f2a-4d58-bd81-a8f5c9c4fb0c"
+
+beef = common_data.copy()
+beef["userData"]["sessionId"] = "7a20ee46-9f2a-4d58-bd81-a8f5c9c4fb0c"
+
+ChickenTurkey = common_data.copy()
+ChickenTurkey["userData"]["sessionId"] = "7a20ee46-9f2a-4d58-bd81-a8f5c9c4fb0c"
+
+PorkHam = common_data.copy()
+PorkHam["userData"]["sessionId"] = "7a20ee46-9f2a-4d58-bd81-a8f5c9c4fb0c"
+
+Bacon = common_data.copy()
+Bacon["userData"]["sessionId"] = "7a20ee46-9f2a-4d58-bd81-a8f5c9c4fb0c"
+
+HotDogs = common_data.copy()
+HotDogs["userData"]["sessionId"] = "bec28050-b5fa-4e01-b836-93fc4af4b3d3"
+
+HalalMeat = common_data.copy()
+HalalMeat["userData"]["sessionId"] = "7a20ee46-9f2a-4d58-bd81-a8f5c9c4fb0c"
+
+EGG = common_data.copy()
+EGG["userData"]["sessionId"] = "8124d3aa-df92-4abd-8a0d-983570ec1400"
+
+NonDairy = common_data.copy()
+NonDairy["userData"]["sessionId"] = "8124d3aa-df92-4abd-8a0d-983570ec1400"
+
+CanFOOD = common_data.copy()
+CanFOOD["userData"]["sessionId"] = "8124d3aa-df92-4abd-8a0d-983570ec1400"
+
+OilsVinegar = common_data.copy()
+OilsVinegar["userData"]["sessionId"] = "8124d3aa-df92-4abd-8a0d-983570ec1400"
+
+Pasta = common_data.copy()
+Pasta["userData"]["sessionId"] = "0d575695-ba4c-41a0-b144-6f00a9459b79"
+
+MeatAlternatives = common_data.copy()
+MeatAlternatives["userData"]["sessionId"] = "7a20ee46-9f2a-4d58-bd81-a8f5c9c4fb0c"
+
+Rice = common_data.copy()
+Rice["userData"]["sessionId"] = "bfacc561-aeb2-44b1-bfed-217c6cd3c2be"
+
+FrozenFruit  = common_data.copy()
+FrozenFruit ["userData"]["sessionId"] = "0d575695-ba4c-41a0-b144-6f00a9459b79"
+
+FrozenMeat  = common_data.copy()
+FrozenMeat ["userData"]["sessionId"] = "bfacc561-aeb2-44b1-bfed-217c6cd3c2be"
+
+coffee  = common_data.copy()
+coffee ["userData"]["sessionId"] = "bfacc561-aeb2-44b1-bfed-217c6cd3c2be"
+
+TeaHotDrinks  = common_data.copy()
+TeaHotDrinks ["userData"]["sessionId"] = "bfacc561-aeb2-44b1-bfed-217c6cd3c2be"
+Shrimp  = common_data.copy()
+Shrimp ["userData"]["sessionId"] = "bfacc561-aeb2-44b1-bfed-217c6cd3c2be"
+Fish  = common_data.copy()
+Fish ["userData"]["sessionId"] = "bfacc561-aeb2-44b1-bfed-217c6cd3c2be"
+salmon  = common_data.copy()
+salmon ["userData"]["sessionId"] = "bfacc561-aeb2-44b1-bfed-217c6cd3c2be"
+
 
 
 def fetch_product_info(data, page_title, category):
@@ -97,10 +161,36 @@ categories = {
     "milk and cream": ('listingPage/28224', milk_cream),
     "cheese": ('listingPage/28225', cheese),
     "yogurt": ('listingPage/28227', yogurt),
+<<<<<<< Updated upstream
     "southAsian": ('listingPage/58045', southAsian),
-    "sausage": ('listingPage/28170', sausage)
-
+    "Sausages": ('listingPage/28170', Sausages),
+    "southAsian": ('listingPage/28171', LambVeal),
+    "MarinatedMeat": ('listingPage/28173', MarinatedMeat),
+    "beef": ('listingPage/28174', beef),
+    "ChickenTurkey": ('listingPage/28214', ChickenTurkey),
+    "PorkHam": ('listingPage/28215', PorkHam),
+    "Bacon": ('listingPage/59252', Bacon),
+    "HotDogs": ('listingPage/59253', HotDogs),
+    "HalalMeat": ('listingPage/59257', HalalMeat),
+    "EGG": ('listingPage/28222', EGG),
+    "NonDairy": ('listingPage/58904', NonDairy),
+    "CanFOOD": ('listingPage/28187', CanFOOD),
+    "OilsVinegar": ('listingPage/28244', OilsVinegar),
+    "Pasta": ('listingPage/28247', Pasta),
+    "Rice": ('listingPage/28248', Rice),
+    "FrozenFruit": ('listingPage/28162', FrozenFruit),
+    "FrozenMeat": ('listingPage/57003', FrozenMeat),
+    "coffee": ('listingPage/28228', coffee),
+    "TeaHotDrinks": ('listingPage/28234', TeaHotDrinks),
+    "Shrimp": ('listingPage/28218', Shrimp),
+    "Fish": ('listingPage/28218', Fish),
+    "salmon": ('listingPage/28217', salmon),
+    "MeatAlternatives": ('listingPage/59318', MeatAlternatives),
+=======
+    "southAsian": ('listingPage/58045', southAsian)
+>>>>>>> Stashed changes
 }
+
 
 # Fetch data for all categories and write to CSV
 all_product_info = []
@@ -123,7 +213,7 @@ try:
     print(f"Data successfully written to {csv_file}")
 except IOError:
     print("I/O error while writing to CSV")
-
+print("hello")
 
 
 
