@@ -248,30 +248,3 @@ superstore_category_pages = {
     "FrozenVegetables":(1,3),
 
 }
-
-# Fetch data for all categories and pages and write to CSV
-# all_product_info = []
-
-# for category, (page_title, data) in categories.items():
-#     print(f"Fetching data for {category}")
-#     page_range = category_pages.get(category, (1, 1))  # Default to (1, 1) if category not found
-#     for page_num in range(page_range[0], page_range[1]+1):  # Iterate over the range of pages
-#         print(f"Fetching data for page {page_num}")
-#         data["listingInfo"]["pagination"]["from"] = page_num  # Update pagination
-#         product_info = fetch_product_info(data, page_title, category)
-#         all_product_info.extend(product_info)
-
-
-# # Write to CSV
-# csv_file = 'product_data.csv'
-# csv_columns = ["Title", "Price", "Package Sizing", "Category", "Store"]
-
-# try:
-#     with open(csv_file, 'w', newline='', encoding='utf-8') as csvfile:
-#         writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
-#         writer.writeheader()
-#         for product in all_product_info:
-#             writer.writerow(product)
-#     print(f"Data successfully written to {csv_file}")
-# except IOError:
-#     print("I/O error while writing to CSV")
