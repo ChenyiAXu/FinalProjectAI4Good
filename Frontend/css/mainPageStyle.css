@@ -1,10 +1,11 @@
 body, html {
     padding: 0;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.5;
 }
 
 .header {
-    background-color: #fbf2dc;
+    background: #fbf2dc;
     padding: 10px 20px;
     align-items: center;
     display: flex;
@@ -12,6 +13,7 @@ body, html {
 }
 .navbar span {
     font-size: 20px;
+    padding: 30px 30px;
     font-weight: bold;
 }
 nav a {
