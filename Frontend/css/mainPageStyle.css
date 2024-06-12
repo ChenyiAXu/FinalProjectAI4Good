@@ -4,7 +4,7 @@ body, html {
     line-height: 1.5;
 }
 
-.header {
+header {
     background: #fbf2dc;
     padding: 10px 20px;
     align-items: center;
