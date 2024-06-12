@@ -36,3 +36,11 @@ h1 {
     display: flex;
     justify-content: space-between;
 }
+
+#intro_image {
+    float: right;
+    padding-right: 40px;
+    width: 40%;
+    height: 45%;
+
+}
