@@ -17,15 +17,16 @@ header {
     justify-content: space-between;
     width: 100%;
 }
-.navbar span {
-    font-size: 15px;
-    font-weight: bold;
-}
-nav a {
+.navbar a, .navbar .team-title {
     text-decoration: none;
     color: black;
     margin: 0 15px;
 }
-nav a:hover {
-    text-decoration: underline;
+
+.navbar .team-title {
+    font-weight: bold; /* Makes the text bold */
+}
+
+.navbar a:hover, .navbar .team-title:hover {
+    text-decoration: underline; /* Underline on hover */
 }

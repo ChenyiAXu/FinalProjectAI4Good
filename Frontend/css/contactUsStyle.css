@@ -28,4 +28,16 @@ nav a {
 }
 nav a:hover {
     text-decoration: underline;
+}.navbar a, .navbar .team-title {
+    text-decoration: none;
+    color: black;
+    margin: 0 15px;
+}
+
+.navbar .team-title {
+    font-weight: bold; /* Makes the text bold */
+}
+
+.navbar a:hover, .navbar .team-title:hover {
+    text-decoration: underline; /* Underline on hover */
 }
