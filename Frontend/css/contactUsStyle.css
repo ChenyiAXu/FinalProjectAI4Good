@@ -41,3 +41,36 @@ nav a:hover {
 .navbar a:hover, .navbar .team-title:hover {
     text-decoration: underline; /* Underline on hover */
 }
+input[type="text"], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #fbf2dc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+input[type="submit"] {
+    background-color:burlywood;
+    color: black;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color:goldenrod;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: lemonchiffon;
+    padding: 20px;
+}
+
+.input-group {
+    margin-bottom: 20px; /* Adds spacing between each input group */
+}
