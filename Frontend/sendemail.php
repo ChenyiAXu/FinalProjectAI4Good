@@ -1,37 +1,39 @@
+<?php
+// Check if the form was submitted
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    if(!empty($_POST['firstname'])
-        && !empty($_POST['lastname'])
-        && !empty($_POST['province'])
-        && !empty($_POST['message'])
-    ) {
-        $firstname = $_POST["firstname"];
-        $lastname = $_POST["lastname"];
-        $province = $_POST["province"];
-        $message = $_POST["firstname"];
+    // Collect and sanitize input data
+    $firstname = filter_input(INPUT_POST, 'firstname', FILTER_SANITIZE_STRING);
+    $lastname = filter_input(INPUT_POST, 'lastname', FILTER_SANITIZE_STRING);
+    $province = filter_input(INPUT_POST, 'province', FILTER_SANITIZE_STRING);
+    $message = filter_input(INPUT_POST, 'message', FILTER_SANITIZE_STRING);
+    $email = filter_input(INPUT_POST, 'email', FILTER_SANITIZE_STRING);
 
-        $to = 'alicex0609@gmail.com';
-        $subject = 'New Contact Form Submission';
+    // Recipient email address
+    $to = 'alicex0609@gmail.com';
 
-        $email_content = "You have received a new message from the contact form:\n\n";
-        $email_content .= "First Name: $firstname\n";
-        $email_content .= "Last Name: $lastname\n";
-        $email_content .= "Province: $province\n";
-        $email_content .= "Message:\n$message\n";
+    // Subject line for the email
+    $subject = 'New Contact Form Submission';
 
-      // Email headers
-        $headers = "From: noreply@ai4goodlabv3.com\n";
-        $headers .= "Reply-To: $firstname <$lastname@example.com>";
+    // Construct the email content
+    $email_content = "You have received a new message from the contact form:\n\n";
+    $email_content .= "First Name: $firstname\n";
+    $email_content .= "Last Name: $lastname\n";
+    $email_content .= "Province: $province\n";
+    $email_content .= "Message:\n$message\n";
 
-        if (mail($to, $subject, $email_content, $headers)) {
+    // Email headers
+    $headers = "From: noreply@example.com\n";
+    $headers .= "Reply-To: $email";
+
+    // Send the email
+    if (mail($to, $subject, $email_content, $headers)) {
         echo 'Thank you for contacting us. We will get back to you soon!';
-          } else {
+    } else {
         echo 'Sorry, there was an error sending your message. Please try again later.';
     }
-
-
-
-    }
-} else{
+} else {
+    // Not a POST request, set a 403 (forbidden) response code.
     http_response_code(403);
     echo "There was a problem with your submission, please try again.";
 }
+?>
