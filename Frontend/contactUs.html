@@ -17,7 +17,34 @@
             </nav>
         </div>
         <div class = "container"> 
-            <form action = ""
+            <form action = "sendemail.php">
+                <label for = "fname">First Name</label>
+                <input type = "text" id = "fname" name = "firstname" placeholder="Your name...">
+
+                <label for="lname">Last Name</label>
+                <input type = "text" id = "lname" name = "lastname" placeholder="Your last name...">
+
+                <label for ="province">Province</label>
+                <select id="province" name = "province">
+                    <option value = "newfoundland">NL</option>
+                    <option value = "princeEdwardIsland">PE</option>
+                    <option value = "novaScotia">NS</option>
+                    <option value = "newBrunswick">NB</option>
+                    <option value = "ontario">ON</option>
+                    <option value = "manitoba">MB</option>
+                    <option value = "saskatchewan">SK</option>
+                    <option value = "alberta">AB</option>
+                    <option value = "britishColumbia">BC</option>
+                    <option value = "yukon">YT</option>
+                    <option value = "northwest">NT</option>
+                    <option value = "nunavut">NU</option>
+                </select>
+
+                <label for = "message">Message</label>
+                <textarea id ="message" name = "message" placeholder = "write someting..." style = "height: 200px"></textarea>
+
+                <input type = "submit" value = "Submit">
+            </form>
 
 
         </div>   
