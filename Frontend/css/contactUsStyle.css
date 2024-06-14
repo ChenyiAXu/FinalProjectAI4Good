@@ -52,7 +52,7 @@ input[type="text"], select, textarea {
     resize: vertical;
 }
 
-button {
+input[type="submit"] {
     background-color:burlywood;
     color: black;
     padding: 12px 20px;
@@ -61,7 +61,7 @@ button {
     cursor: pointer;
 }
 
-button:hover {
+input[type="submit"]:hover {
     background-color:goldenrod;
 }
 
