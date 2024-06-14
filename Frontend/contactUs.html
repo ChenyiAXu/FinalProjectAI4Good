@@ -18,6 +18,7 @@
                 event.preventDefault();
                 emailjs.sendForm('service_po7gwf9','contact_form', this)
                     .then(() => {
+                        alert('Your message has been sent successfully');
                         console.log('SUCCESS!');
                     }, (error) => {
                         console.log('FAILED...', error);
