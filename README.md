@@ -5,7 +5,7 @@ This dataset features 16,277 everyday grocery items scraped from three prominent
 ## [Pre-data Processing](https://github.com/ChenyiAXu/FinalProjectAI4Good/blob/main/Data%20Processing/predata_processing.ipynb) 
 The raw datasets obtained through web scraping are meticulously processed using the Python libraries pandas and numpy. This processing includes segregating the data into four distinct CSV files corresponding to the store origin: Save On Foods, Superstore, No Frills, and a combined file that aggregates the data from all sources.Each dataset comprises the following columns: Title, Price, Category, Store, Price per Unit, Per Unit Quantity, and Unit Type. 
 ## Frontend
-### Contact Us Page
+### [Contact Us Page](https://github.com/ChenyiAXu/FinalProjectAI4Good/blob/main/Frontend/contactUs.html)
 This is a contact form created using **CSS**, **HTML**, and **JavaScript**, utilizing **EmailJS** as an API. When the contact form is submitted, the information will be sent to the team as an email, and the sender will receive an automated email.
 #### Setup Instructions
 **EmailJS Setup:**
