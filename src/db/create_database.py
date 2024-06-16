@@ -11,12 +11,6 @@ df = pd.read_csv(csv_file_path)
 # Database connection settings (replace with your actual details)
 db_url = 'postgresql://combineddb_owner:NbVg8dZPUu6e@ep-shiny-poetry-a67zznk9.us-west-2.aws.neon.tech/combineddb'
 
-try:
-    conn = psycopg2.connect(db_url)
-    print("Connection successful")
-except Exception as e:
-    print(f"Connection failed: {e}")
-
 # Create a SQLAlchemy engine
 engine = create_engine(db_url)
 
