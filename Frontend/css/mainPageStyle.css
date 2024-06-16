@@ -1,0 +1,79 @@
+body, html {
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.5;
+}
+
+header {
+    background: #fbf2dc;
+    padding: 20px 20px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.navbar {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.navbar a, .navbar .team-title {
+    text-decoration: none;
+    color: black;
+    margin: 0 15px;
+}
+
+.navbar .team-title {
+    font-weight: bold; /* Makes the text bold */
+}
+
+.navbar a:hover, .navbar .team-title:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+h1 {
+    padding: 20px 20px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.mainContent #intro_image {
+    float: right;
+    padding-right: 40px;
+    padding-left: 20px;
+    padding-bottom: 30px;
+    width: 40%;
+    height: 45%;
+
+}
+.mainContent{
+    display: flex;
+    justify-content: space-between;
+}
+.textSection{
+    float: left;
+    padding-left: 30px;
+    padding-right: 20 px;
+}
+
+footer {
+    padding-top: 10px;
+    background: #fbf2dc;
+    padding: 20px 20px;
+    text-align: center;
+    font-size: 12px;
+    color: #333;
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer-content p {
+    margin: 0;
+    padding: 10px 0;
+}

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/contactUsStyle.css">
+
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+    <script type="text/javascript">
+        (function() {
+            emailjs.init("DeK-jvsecVsFBEyT3");
+        })();
+    </script>
+    <script type="text/javascript">
+        window.onload = function() {
+            document.getElementById('contact-form').addEventListener('submit', function(event) {
+                event.preventDefault();
+                emailjs.sendForm('service_po7gwf9','contact_form', this)
+                    .then(() => {
+                        alert('Your message has been sent successfully');
+                        console.log('SUCCESS!');
+                    }, (error) => {
+                        console.log('FAILED...', error);
+                    });
+            });
+        }
+    </script>
+</head>
+<body>
+    <header>
+        <div class="navbar">
+            <a href="mainPage.html" class="team-title">AI4Good Project - Virtual Cohort Team 3</a>
+            <nav>
+                <a href="gettingStarted.html">Get started</a>
+                <a href="members.html">Members</a>
+                <a href="contactUs.html">Contact Us</a>
+            </nav>
+        </div> 
+    </header>
+    <div class="container">
+        <form id="contact-form">
+            <div class="input-group">
+                <label for="fname">First Name</label>
+                <input type="text" id="fname" name="firstname" placeholder="Your name...">
+            </div>
+    
+            <div class="input-group">
+                <label for="lname">Last Name</label>
+                <input type="text" id="lname" name="lastname" placeholder="Your last name...">
+            </div>
+            <div class="input-group">
+                <label for="email">Email</label>
+                <input type="text" id="email" name="email" placeholder="Your email...">
+            </div>
+    
+            <div class="input-group">
+                <label for="province">Province</label>
+                <select id="province" name="province">
+                    <option value="newfoundland">NL</option>
+                    <option value="princeEdwardIsland">PE</option>
+                    <option value="novaScotia">NS</option>
+                    <option value="newBrunswick">NB</option>
+                    <option value="ontario">ON</option>
+                    <option value="manitoba">MB</option>
+                    <option value="saskatchewan">SK</option>
+                    <option value="alberta">AB</option>
+                    <option value="quebec">QC</option>
+                    <option value="britishColumbia">BC</option>
+                    <option value="yukon">YT</option>
+                    <option value="northwest">NT</option>
+                    <option value="nunavut">NU</option>
+                </select>
+            </div>
+    
+            <div class="input-group">
+                <label for="message">Message</label>
+                <textarea id="message" name="message" placeholder="Write something..." style="height: 200px"></textarea>
+            </div>
+            <input type="submit" value="Send">
+        </form>
+    </div>
+    <footer>
+        <div class="footer-content">
+            <p>© Ai4Good Lab Virtual Cohort Project Team 3. All rights reserved.</p>
+        </div>
+    </footer>
+    
+</body>
+</html>
