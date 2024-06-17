@@ -55,7 +55,14 @@ h1 {
 .textSection{
     float: left;
     padding-left: 30px;
-    padding-right: 20 px;
+    width: 50%
+}
+.Ai4GoodBlock, .OurProjectSector {
+    background-color:bisque;
+    border: 2px solid sandybrown; 
+    border-radius: 8px;
+    margin-bottom: 20px ;
+    padding: 20px;
 }
 
 footer {
