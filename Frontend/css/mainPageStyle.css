@@ -44,8 +44,9 @@ h1 {
     padding-right: 40px;
     padding-left: 20px;
     padding-bottom: 30px;
+    padding-top:  20px;
     width: 40%;
-    height: 45%;
+    height: 50%;
 
 }
 .mainContent{
@@ -58,11 +59,20 @@ h1 {
     width: 50%
 }
 .Ai4GoodBlock, .OurProjectSector {
-    background-color:bisque;
-    border: 2px solid sandybrown; 
     border-radius: 8px;
     margin-bottom: 20px ;
     padding: 20px;
+}
+.Ai4GoodBlock{
+    background-color:cornsilk;
+    border: 4px solid burlywood; 
+}
+.OurProjectSector{
+    background-color: bisque;
+    border: 4px solid sandybrown; 
+}
+.Ai4GoodBlock ul li, .OurProjectSector ul li {
+    padding: 4px 0;
 }
 
 footer {
