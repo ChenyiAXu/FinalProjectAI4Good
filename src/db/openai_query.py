@@ -3,7 +3,7 @@ import openai
 from openai import OpenAI
 
 def generate_category_and_tags(item):
-    openai_api_key = "sk-proj-sTiiIVpqoXktxDGOj7QQT3BlbkFJ5rowjxjn5DqESLMRcQf6"
+    openai_api_key = "sk-proj-F5OmMn8npmC2KwavsgV7T3BlbkFJCZTxwrM6LRHgXJF4H51H"
     client = OpenAI(api_key=openai_api_key)
     
     # Define the messages for the two tasks
