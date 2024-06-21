@@ -1,9 +1,14 @@
 import os
 import openai
 from openai import OpenAI
+from dotenv import load_dotenv
+
+load_dotenv(override=True)
+
+api_key = os.getenv('SECRET_API_KEY')
 
 def generate_category_and_tags(item):
-    openai_api_key = "sk-proj-F5OmMn8npmC2KwavsgV7T3BlbkFJCZTxwrM6LRHgXJF4H51H"
+    openai_api_key = api_key
     client = OpenAI(api_key=openai_api_key)
     
     # Define the messages for the two tasks
